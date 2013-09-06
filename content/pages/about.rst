@@ -1,0 +1,21 @@
+About me
+########
+:date: 2013-09-04 15:37
+:author: G\. Chevrot
+
+I am a computational biophysicist (postdoc fellow) working in Synchrotron SOLEIL 
+at CNRS. Currently I am in the biophysics `group of G. Kneller`_ and I am part 
+of the Sputnik_ project. 
+My research interests include the dynamics of proteins and the coupling 
+between molecular simulation and experiments. I really enjoy molecular
+simulations as a virtual microscope of life and I hope I will still be 
+around when we will be able to simulate the whole machinery of cells!
+In daily life, my work includes application of existing packages like Gromacs, 
+NAMD, MMTK, nMoldyn ... but also the development of new codes (especially with 
+python at the moment) for analysis, storage problems (HDF5) or web development 
+(Django).
+
+
+.. _Sputnik: http://dirac.cnrs-orleans.fr/sputnik/home/
+.. _group of G. Kneller: http://dirac.cnrs-orleans.fr/plone/
+
