@@ -8,8 +8,8 @@ AUTHOR = u'gchevrot'
 SITENAME = u'Guillaume Chevrot'
 USE_FOLDER_AS_CATEGORY = 'True'
 STATIC_PATHS = ['images', 'pdfs']
-#SITEURL = 'http://www.gchevrot.com'
-SITEURL = '/Users/guillaume/Documents/WebSite/Pelican/gchevrot/output'
+SITEURL = 'http://gchevrot.github.io/output'
+#SITEURL = '/Users/guillaume/Documents/WebSite/Pelican/gchevrot/output'
 
 TIMEZONE = 'Europe/Paris'
 
