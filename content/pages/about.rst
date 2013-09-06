@@ -10,7 +10,7 @@ My research interests include the dynamics of proteins and the coupling
 between molecular simulation and experiments. I really enjoy molecular
 simulations as a virtual microscope of life and I hope I will still be 
 around when we will be able to simulate the whole machinery of cells!
-In daily life, my work includes application of existing packages like Gromacs, 
+In my daily life, my work includes application of existing packages like Gromacs, 
 NAMD, MMTK, nMoldyn ... but also the development of new codes (especially with 
 python at the moment) for analysis, storage problems (HDF5) or web development 
 (Django).
