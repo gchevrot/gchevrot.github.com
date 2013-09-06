@@ -25,20 +25,22 @@ Publications
 
 #. G Chevrot, R Schurhammer, G Wipff. Molecular dynamics study of dicarbollide
    anions in nitrobenzene solution and at its aqueous interface. Synergistic
-   effect in the Eu (III) assisted extraction. Phys. Chem. Chem. Phys. 9:5928,
+   effect in the Eu(III) assisted extraction. Phys. Chem. Chem. Phys. 9:5928,
    2007. `[PDF]`__
 
 #. G Chevrot, R Schurhammer, G Wipff. Synergistic effect of dicarbollide
-   anions in liquid–liquid extraction: a molecular dynamics study at the
-   octanol–water interface. Phys. Chem. Chem. Phys. 9:1991, 2007. `[PDF]`__
+   anions in liquid-liquid extraction: a molecular dynamics study at the
+   octanol-water interface. Phys. Chem. Chem. Phys. 9:1991, 2007. `[PDF]`__
 
 #. G Chevrot, R Schurhammer, G Wipff. Molecular dynamics simulations of the
    aqueous interface with the [BMI][PF6] ionic liquid: comparison of different
    solvent models. Phys. Chem. Chem. Phys. 8:4166, 2006. `[PDF]`__
 
-#. G Chevrot, R Schurhammer, G Wipff. Surfactant behavior of “ellipsoidal”
+#. G Chevrot, R Schurhammer, G Wipff. Surfactant behavior of "ellipsoidal"
    dicarbollide anions: A molecular dynamics study. J. Phys. Chem. B 
    110:9488, 2006. `[PDF]`__
+
+   See my `Google Scholar profile`_
 
 
 __ http://gchevrot.github.io/home/static/pdfs/JChemPhys_137_225101_2012.pdf
@@ -50,6 +52,6 @@ __ http://gchevrot.github.io/home/static/pdfs/PCCP_9_5928_2007.pdf
 __ http://gchevrot.github.io/home/static/pdfs/PCCP_9_1991_2007.pdf
 __ http://gchevrot.github.io/home/static/pdfs/PCCP_8_4166_2006.pdf
 __ http://gchevrot.github.io/home/static/pdfs/JPhysChemB_110_9488_2006.pdf
-
+.. _Google Scholar profile: http://scholar.google.fr/citations?user=m5KlXI8AAAAJ&hl=en
 
 
