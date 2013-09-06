@@ -16,6 +16,8 @@ TIMEZONE = 'Europe/Paris'
 DEFAULT_LANG = u'en'
 DEFAULT_DATE = 'fs'
 
+OUTPUT_PATH = 'home'
+
 # =======
 # Theming
 # =======
