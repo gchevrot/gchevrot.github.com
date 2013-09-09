@@ -1,5 +1,5 @@
-Resum&eacute;
-#############
+Resumé
+######
 :author: G\. Chevrot
 
 
