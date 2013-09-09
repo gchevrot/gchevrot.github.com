@@ -25,17 +25,13 @@
             <li><a href="{{ SITEURL }}/pages/resume.html">Resum&eacute;</a></li>
             <li><a href="{{ SITEURL }}/pages/publications.html">Publications</a></li>
             <li><a href="{{ SITEURL }}/pages/contact.html">Contact</a></li>
+            {% if TWITTER_URL %}
+            <li><a href="{{ TWITTER_URL }}"><img src="{{ SITEURL }}/theme/images/icons/twitter.svg" alt="Twitter"></a></li>
+            {% endif %}
+            {% if LINKEDIN_URL %}
+            <li><a href="{{ LINKEDIN_URL }}"><img src="{{ SITEURL }}/theme/images/icons/linkedin3.png" alt="LinkedIn"></a></li>
+            {% endif %}
         </ul>    
-        <div class="social">
-            <ul>
-                {% if TWITTER_URL %}
-                <li><a href="{{ TWITTER_URL }}"><img src="{{ SITEURL }}/theme/images/icons/twitter.svg" alt="Twitter"></a></li>
-                {% endif %}
-                {% if LINKEDIN_URL %}
-                <li><a href="{{ LINKEDIN_URL }}"><img src="{{ SITEURL }}/theme/images/icons/linkedin3.png" alt="LinkedIn"></a></li>
-                {% endif %}
-            </ul>
-        </div>
         <p style="font-family:arial;font-size:0.6em;">Powered by <a href="http://docs.getpelican.com/">Pelican</a>.</p>
     </div>
 
