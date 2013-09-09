@@ -3,7 +3,7 @@ Resumé
 :author: G\. Chevrot
 
 
-Download my Résumé `[PDF]`_
+Download my Resumé `[PDF]`_
 
 Professional Experience
 -----------------------
