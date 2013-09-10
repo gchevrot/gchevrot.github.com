@@ -25,10 +25,15 @@ Guillaume Chevrot
 }
 h1
 {
-    font-size: 1.3em;
+    /*font-size: 1.3em;
     font-family: "Trebuchet MS", Verdana, Georgia, sans-serif;
     font-weight: bold;
+    */
     text-align: center;
+    font-size: 2.0em;
+    line-height: 3.5em;
+    font-variant:small-caps;
+    font-family: 'Arvo', 'Open Sans', sans-serif;
 }
 h2
 {
@@ -86,13 +91,6 @@ a:visited
     text-decoration: none;
     /*color: 33CCFF;*/
     color: white;
-}
-#title
-{
-    font-size: 2.0em;
-    line-height: 3.5em;
-    font-variant:small-caps;
-    font-family: 'Arvo', 'Open Sans', sans-serif;
 }
 li
 {
