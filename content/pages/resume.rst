@@ -9,11 +9,11 @@ Professional Experience
 -----------------------
 
 
-2011 - Present::    Postdoctoral Research Associate. 
+:2011 - Present:    Postdoctoral Research Associate. 
                     CNRS / SOLEIL synchrotron. 
                     Paris Area, France.
 
-2008 - 2010::       Postdoctoral Research Associate. 
+:2008 - 2010:       Postdoctoral Research Associate. 
                     CEA-DAM Ile de France.
                     Paris Area, France.
 
