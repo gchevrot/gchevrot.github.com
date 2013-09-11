@@ -16,6 +16,7 @@ Professional Experience
 |                       |                                    |
 |                       | Paris Area, France.                |
 +-----------------------+------------------------------------+
++-----------------------+------------------------------------+
 | **2008 - 2010**       | Postdoctoral Research Associate.   |
 |                       |                                    |
 |                       | CEA-DAM Ile de France.             |
