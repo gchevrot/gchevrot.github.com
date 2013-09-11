@@ -115,12 +115,11 @@ table
 td
 {
     /* border: 1px solid black; */
-    width: 0px;
+    border: none;
 }
 tr
 {
-    /* border: 1px solid black; */
-    width: 5px;
+    border: 2px dashed grey;
 }
 #main_wrapper
 {
