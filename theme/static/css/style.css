@@ -110,6 +110,7 @@ table
     margin-right: auto;
     text-align: left;
     border-collapse: collapse;
+    border: none;
 }
 td
 {
