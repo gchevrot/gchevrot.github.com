@@ -10,24 +10,26 @@ Professional Experience
 -----------------------
 
 +-------------------------+----------------------------------------+
-| - **2011 - Present**    | - Postdoctoral Research Associate.     |
-|                         | - CNRS / SOLEIL synchrotron.           |
-|                         | - Paris Area, France.                  |
+| - **2011 - Present**    | Postdoctoral Research Associate.       |
+|                         |                                        |
+|                         | CNRS / SOLEIL synchrotron.             |
+|                         |                                        |
+|                         | Paris Area, France.                    |
 +-------------------------+----------------------------------------+
 
 +-------------------------+----------------------------------------+
 | - **2008 - 2010**       | Postdoctoral Research Associate.       |
-|                       |                                          |
-|                       | CEA-DAM Ile de France.                   |
-|                       |                                          |
-|                       | Paris Area, France.                      |
+|                         |                                        |
+|                         | CEA-DAM Ile de France.                 |
+|                         |                                        |
+|                         | Paris Area, France.                    |
 +-------------------------+----------------------------------------+
 +-------------------------+----------------------------------------+
 | - **2004 - 2008**       | PhD.                                   |
-|                       |                                          |
-|                       | University of Strasbourg.                |
-|                       |                                          |
-|                       | Strasbourg, France.                      |
+|                         |                                        |
+|                         | University of Strasbourg.              |
+|                         |                                        |
+|                         | Strasbourg, France.                    |
 +-------------------------+----------------------------------------+
 
 
