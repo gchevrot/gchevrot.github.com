@@ -119,7 +119,7 @@ td,th /*cell and head cell*/
     border: none;
     text-align: left;
     vertical-align: top;
-    background-color:red;
+    background-color:blue;
 }
 tr /*row*/
 {
