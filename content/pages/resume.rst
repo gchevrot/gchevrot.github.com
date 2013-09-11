@@ -10,24 +10,24 @@ Professional Experience
 -----------------------
 
 +-------------------------+-------------------------------------------------------------------+
-|   **2011**              | Postdoctoral Research Associate (computational biophysics).       |
+| **2011**                | Postdoctoral Research Associate (computational biophysics).       |
+|     **Present**         |                                                                   |
+|                         | `CNRS / SOLEIL synchrotron.`_                                     |
 |                         |                                                                   |
-|      **-**              | `CNRS / SOLEIL synchrotron.`_                                     |
-|                         |                                                                   |
-|         **Present**     | Paris Area, France.                                               |
+|                         | Paris Area, France.                                               |
 +-------------------------+-------------------------------------------------------------------+
 
 +-------------------------+-------------------------------------------------------------------+
-|   **2008**              | Postdoctoral Research Associate. (computational chemistry)        |
+| **2008**                | Postdoctoral Research Associate. (computational chemistry)        |
+|     **2010**            |                                                                   |
+|                         | `CEA-DAM Ile de France.`_                                         |
 |                         |                                                                   |
-|      **-**              | `CEA-DAM Ile de France.`_                                         |
-|                         |                                                                   |
-|         **2010**        | Paris Area, France.                                               |
+|                         | Paris Area, France.                                               |
 +-------------------------+-------------------------------------------------------------------+
 
 +-------------------------+-------------------------------------------------------------------+
-| - **2004 - 2008**       | Ph.D. in computational chemistry.                                 |
-|                         |                                                                   |
+| **2004**                | Ph.D. in computational chemistry.                                 |
+|     **2008**            |                                                                   |
 |                         | `University of Strasbourg.`_                                      |
 |                         |                                                                   |
 |                         | Strasbourg, France.                                               |

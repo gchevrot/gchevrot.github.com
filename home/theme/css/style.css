@@ -107,7 +107,7 @@ li
 table
 {
     margin-left: 1cm;
-    width: 70%;
+    width: 85%;
     /*margin-right: auto;*/
     /*border-collapse: collapse;*/
     border: none;
@@ -118,7 +118,7 @@ td,th /*cell and head cell*/
     /* border: 1px solid black; */
     border: none;
     text-align: left;
-    vertical-align: top;
+    /*vertical-align: top;*/
     /*line-height:2.5em;*/
 }
 tr /*row*/
@@ -129,6 +129,7 @@ tr /*row*/
 .category_table tr:first-child td 
 {
     vertical-align: center;
+    font-family: sans-serif;
 }
 #main_wrapper
 {
