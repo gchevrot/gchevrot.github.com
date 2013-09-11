@@ -12,17 +12,17 @@ Professional Experience
 +-------------------------+-------------------------------------------------------------------+
 |   **2011**              | Postdoctoral Research Associate (computational biophysics).       |
 |                         |                                                                   |
-|   ** - **               | `CNRS / SOLEIL synchrotron.`_                                     |
+|      **-**              | `CNRS / SOLEIL synchrotron.`_                                     |
 |                         |                                                                   |
-|   **Present**           | Paris Area, France.                                               |
+|         **Present**     | Paris Area, France.                                               |
 +-------------------------+-------------------------------------------------------------------+
 
 +-------------------------+-------------------------------------------------------------------+
-| - **2008 - 2010**       | Postdoctoral Research Associate. (computational chemistry)        |
+|   **2008**              | Postdoctoral Research Associate. (computational chemistry)        |
 |                         |                                                                   |
-|                         | `CEA-DAM Ile de France.`_                                         |
+|      **-**              | `CEA-DAM Ile de France.`_                                         |
 |                         |                                                                   |
-|                         | Paris Area, France.                                               |
+|         **2010**        | Paris Area, France.                                               |
 +-------------------------+-------------------------------------------------------------------+
 
 +-------------------------+-------------------------------------------------------------------+
