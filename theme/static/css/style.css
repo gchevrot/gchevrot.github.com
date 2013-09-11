@@ -120,6 +120,7 @@ td,th /*cell and head cell*/
     text-align: left;
     vertical-align: top;
     background-color:blue;
+    line-height:2.5em;
 }
 tr /*row*/
 {
