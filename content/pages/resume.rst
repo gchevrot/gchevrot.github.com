@@ -10,11 +10,11 @@ Professional Experience
 -----------------------
 
 +-------------------------+-------------------------------------------------------------------+
-| - **2011 - Present**    | Postdoctoral Research Associate (computational biophysics).       |
+|   **2011**              | Postdoctoral Research Associate (computational biophysics).       |
 |                         |                                                                   |
-|                         | `CNRS / SOLEIL synchrotron.`_                                     |
+|   ** - **               | `CNRS / SOLEIL synchrotron.`_                                     |
 |                         |                                                                   |
-|                         | Paris Area, France.                                               |
+|   **Present**           | Paris Area, France.                                               |
 +-------------------------+-------------------------------------------------------------------+
 
 +-------------------------+-------------------------------------------------------------------+

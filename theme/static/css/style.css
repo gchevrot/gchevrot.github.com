@@ -125,6 +125,11 @@ tr /*row*/
 {
     border: 2px dashed grey;
 }
+/*first row*/
+.category_table tr:first-child td 
+{
+    vertical-align: center;
+}
 #main_wrapper
 {
     width: 1000px;
