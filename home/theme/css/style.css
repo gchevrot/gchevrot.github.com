@@ -118,6 +118,7 @@ td /*cell*/
     /* border: 1px solid black; */
     border: none;
     text-align: left;
+    vertical-align: top;
 }
 tr /*row*/
 {
