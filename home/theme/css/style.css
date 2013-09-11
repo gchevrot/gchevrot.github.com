@@ -110,6 +110,7 @@ table
     margin-right: auto;
     /*border-collapse: collapse;*/
     border: none;
+    font-family: Verdana, Geneva, sans-serif;
 }
 td /*cell*/
 {
@@ -119,7 +120,7 @@ td /*cell*/
 }
 tr /*row*/
 {
-    border: 2px groove grey;
+    border: 2px dashed grey;
 }
 #main_wrapper
 {
