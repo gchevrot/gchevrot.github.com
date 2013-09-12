@@ -63,7 +63,7 @@ Education
 
 +-------------------------+-------------------------------------------------------------------+
 | **07/2009**             | `Methods in molecular simulation summer school`_ 2009             |
-|                         | (5 - 14 th july).                                                 |
+|       .                 | (5 - 14 th july).                                                 |
 |                         |                                                                   |
 |                         | `University of Sheffield.`_                                       |
 |                         |                                                                   |
