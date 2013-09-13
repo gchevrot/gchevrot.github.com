@@ -10,8 +10,8 @@ Professional Experience
 -----------------------
 
 +-----------------+-------------------------------------------------------------+--------------------------------------------------------------------------------------+
-| **2011**        | Postdoctoral Research Associate (computational biophysics). | - Extraction of internal motions from molecular dynamics simulations.                |
-|     **Present** |                                                             | - Impact of anisotropic atomic motions on incoherent neutron scattering intensities. |
+|**2011**         | Postdoctoral Research Associate (computational biophysics). | - Extraction of internal motions from molecular dynamics simulations.                |
+|   **Present**   |                                                             | - Impact of anisotropic atomic motions on incoherent neutron scattering intensities. |
 |                 | `CNRS / SOLEIL synchrotron.`_                               | - Contribution to software developments (nMoldyn, Screwfit Server).                  | 
 |                 |                                                             | - Performance tests of HDF5 files.                                                   |
 |                 | Paris Area, France.                                         | - ...                                                                                |
@@ -19,16 +19,16 @@ Professional Experience
 +-----------------+-------------------------------------------------------------+--------------------------------------------------------------------------------------+
 
 +-----------------+-------------------------------------------------------------+--------------------------------------------------------------------------------------+
-| **2008**        | Postdoctoral Research Associate (computational chemistry).  | - Molecular dynamics simulations of carbon nanoparticles under detonation conditions.|
-|     **2010**    |                                                             | - Modeling the kinetics of carbon nanoparticles coalescence.                         |
+|**2008**         | Postdoctoral Research Associate (computational chemistry).  | - Molecular dynamics simulations of carbon nanoparticles under detonation conditions.|
+|   **2010**      |                                                             | - Modeling the kinetics of carbon nanoparticles coalescence.                         |
 |                 | `CEA-DAM Ile de France.`_                                   | - Development of programs to analyze molecular dynamics simulations.                 |
 |                 |                                                             | - ...                                                                                |
 |                 | Paris Area, France.                                         | - 3 publications.                                                                    |
 +-------------------------------------------------------------------------------+--------------------------------------------------------------------------------------+
 
 +-----------------+-------------------------------------------------------------+
-| **2004**        | Ph.D. (computational chemistry).                            |
-|     **2008**    |                                                             |
+|**2004**         | Ph.D. (computational chemistry).                            |
+|   **2008**      |                                                             |
 |                 | `University of Strasbourg.`_                                |
 |                 |                                                             |
 |                 | Strasbourg, France.                                         |
@@ -39,24 +39,24 @@ Education
 ---------
 
 +-----------------+-------------------------------------------------------------+
-| **2004**        | Ph.D. (computational chemistry).                            |
-|     **2008**    |                                                             |
+|**2004**         | Ph.D. (computational chemistry).                            |
+|   **2008**      |                                                             |
 |                 | `University of Strasbourg.`_                                |
 |                 |                                                             |
 |                 | Strasbourg, France.                                         |
 +-----------------+-------------------------------------------------------------+
 
 +-----------------+-------------------------------------------------------------+
-| **2003**        | Master degree (M2 - computational chemistry).               |
-|     **2004**    |                                                             |
+|**2003**         | Master degree (M2 - computational chemistry).               |
+|   **2004**      |                                                             |
 |                 | `University of Strasbourg.`_                                |
 |                 |                                                             |
 |                 | Strasbourg, France.                                         |
 +-----------------+-------------------------------------------------------------+
 
 +-----------------+-------------------------------------------------------------+
-| **2002**        | Master degree (M1 - chemistry).                             |
-|     **2003**    |                                                             |
+|**2002**         | Master degree (M1 - chemistry).                             |
+|   **2003**      |                                                             |
 |                 | `University of Burgundy.`_                                  |
 |                 |                                                             |
 |                 | Dijon, France.                                              |
