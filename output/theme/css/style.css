@@ -132,8 +132,8 @@ table td:nth-child(1)
 }
 td li
 {
-    font-family: sans-serif;
-    color: green;
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 1.0em;
 }
 #main_wrapper
 {
