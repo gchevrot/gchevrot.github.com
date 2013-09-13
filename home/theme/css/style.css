@@ -94,10 +94,7 @@ a:visited
     /*color: 33CCFF;*/
     color: white;
 }
-li
-{
-    line-height: 2.5em;
-}
+/*li { line-height: 2.5em; }*/
 #footer
 {
     clear: both;
@@ -128,22 +125,12 @@ tr /*row*/
     border: 2px dashed grey;
 }
 /*first column*/
-/*do not work ???*/
 table td:nth-child(1) 
 {
     vertical-align: center;
     font-family: sans-serif;
-    color: green;
-    background-color: red;
 }
-/*do not work ???*/
 td li
-{
-    font-family: sans-serif;
-    color: green;
-}
-/*do not work ???*/
-.docutils li
 {
     font-family: sans-serif;
     color: green;
