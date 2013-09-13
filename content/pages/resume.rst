@@ -12,18 +12,18 @@ Professional Experience
 +-----------------+-------------------------------------------------------------+--------------------------------------------------------------------------------------+
 | **2011**        | Postdoctoral Research Associate (computational biophysics). | - Extraction of internal motions from molecular dynamics simulations.                |
 |     **Present** |                                                             | - Impact of anisotropic atomic motions on incoherent neutron scattering intensities. |
-|                 | `CNRS / SOLEIL synchrotron.`_                               | - TeraHertz analysis of proteins : experimental & numerical approach.                |
-|                 |                                                             | - Contribution to software developments (nMoldyn, Screwfit Server).                  |
-|                 | Paris Area, France.                                         | - Performance tests of HDF5 files.                                                   |
+|                 | `CNRS / SOLEIL synchrotron.`_                               | - Contribution to software developments (nMoldyn, Screwfit Server).                  | 
+|                 |                                                             | - Performance tests of HDF5 files ...                                                |
+|                 | Paris Area, France.                                         | - 3 publications.                                                                    |
 +-----------------+-------------------------------------------------------------+--------------------------------------------------------------------------------------+
 
-+-----------------+-------------------------------------------------------------+
-| **2008**        | Postdoctoral Research Associate (computational chemistry).  |
-|     **2010**    |                                                             |
-|                 | `CEA-DAM Ile de France.`_                                   |
-|                 |                                                             |
-|                 | Paris Area, France.                                         |
-+-------------------------------------------------------------------------------+
++-----------------+-------------------------------------------------------------+--------------------------------------------------------------------------------------+
+| **2008**        | Postdoctoral Research Associate (computational chemistry).  | - Molecular dynamics simulations of carbon nanoparticles under detonation conditions.|
+|     **2010**    |                                                             | - Modeling the kinetics of carbon nanoparticles coalescence.                         |
+|                 | `CEA-DAM Ile de France.`_                                   | - Development of programs to analyze molecular dynamics simulations.                 |
+|                 |                                                             | - 3 publications.                                                                    |
+|                 | Paris Area, France.                                         |                                                                                      |
++-------------------------------------------------------------------------------+--------------------------------------------------------------------------------------+
 
 +-----------------+-------------------------------------------------------------+
 | **2004**        | Ph.D. (computational chemistry).                            |
@@ -69,6 +69,10 @@ Education
 |                 |                                                             |
 |                 | Sheffield, United Kingdom.                                  |
 +-----------------+-------------------------------------------------------------+
+
+
+Skills
+------
 
 
 
