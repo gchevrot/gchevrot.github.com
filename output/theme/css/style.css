@@ -127,12 +127,26 @@ tr /*row*/
 {
     border: 2px dashed grey;
 }
-/*first row*/
-.category_table tr:first-child td 
+/*first column*/
+/*do not work ???*/
+table td:nth-child(1) 
 {
     vertical-align: center;
     font-family: sans-serif;
+    color: green;
     background-color: red;
+}
+/*do not work ???*/
+td li
+{
+    font-family: sans-serif;
+    color: green;
+}
+/*do not work ???*/
+.docutils li
+{
+    font-family: sans-serif;
+    color: green;
 }
 #main_wrapper
 {
