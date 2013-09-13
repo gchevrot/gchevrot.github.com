@@ -11,7 +11,8 @@ Guillaume Chevrot
     /*display: inline-block;
     vertical-align: top;*/
     font-size: 1.0em;
-    font-family: "Trebuchet MS", Verdana, Georgia, sans-serif;
+    /*font-family: "Trebuchet MS", Verdana, Georgia, sans-serif;*/
+    font-family: Verdana, Geneva, sans-serif;
     text-align: justify;
     padding-top: 2px;
     padding-left: 300px;
@@ -33,7 +34,8 @@ h1
     font-size: 2.0em;
     line-height: 3.5em;
     font-variant:small-caps;
-    font-family: 'Arvo', 'Open Sans', sans-serif;
+    /*font-family: 'Arvo', 'Open Sans', sans-serif;*/
+    font-family: Verdana, Geneva, sans-serif;
 }
 h2
 {
@@ -130,6 +132,7 @@ tr /*row*/
 {
     vertical-align: center;
     font-family: sans-serif;
+    background-color: red;
 }
 #main_wrapper
 {
