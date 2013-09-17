@@ -9,30 +9,30 @@ Download my Resumé `[PDF]`_
 Professional Experience
 -----------------------
 
-+-----------------+-------------------------------------------------------------+--------------------------------------------------------------------------------------+
-|**2011**         | Postdoctoral Research Associate (computational biophysics). | - Extraction of internal motions from molecular dynamics simulations.                |
-|   **Present**   |                                                             | - Impact of anisotropic atomic motions on incoherent neutron scattering intensities. |
-|                 | `CNRS / SOLEIL synchrotron.`_                               | - Contribution to software developments (nMoldyn, Screwfit Server).                  | 
-|                 |                                                             | - Performance tests of HDF5 files.                                                   |
-|                 | Paris Area, France.                                         | - ...                                                                                |
-|                 |                                                             | - 3 publications.                                                                    |
-+-----------------+-------------------------------------------------------------+--------------------------------------------------------------------------------------+
++-----------------+-------------------------------------------------------------+--------------------------------------------------------------------------------------------+
+|**2011**         | Postdoctoral Research Associate (computational biophysics). | - Extraction of internal motions from molecular dynamics simulations.                      |
+|   **Present**   |                                                             | - Impact of anisotropic atomic motions on incoherent neutron scattering intensities.       |
+|                 | `CNRS / SOLEIL synchrotron.`_                               | - Contribution to software developments (nMoldyn, Screwfit Server).                        | 
+|                 |                                                             | - Performance tests of HDF5 files.                                                         |
+|                 | Paris Area, France.                                         | - ...                                                                                      |
+|                 |                                                             | - 3 publications.                                                                          |
++-----------------+-------------------------------------------------------------+--------------------------------------------------------------------------------------------+
 
-+-----------------+-------------------------------------------------------------+--------------------------------------------------------------------------------------+
-|**2008**         | Postdoctoral Research Associate (computational chemistry).  | - Molecular dynamics simulations of carbon nanoparticles under detonation conditions.|
-|   **2010**      |                                                             | - Modeling the kinetics of carbon nanoparticles coalescence.                         |
-|                 | `CEA-DAM Ile de France.`_                                   | - Development of programs to analyze molecular dynamics simulations.                 |
-|                 |                                                             | - ...                                                                                |
-|                 | Paris Area, France.                                         | - 3 publications.                                                                    |
-+-------------------------------------------------------------------------------+--------------------------------------------------------------------------------------+
++-----------------+-------------------------------------------------------------+--------------------------------------------------------------------------------------------+
+|**2008**         | Postdoctoral Research Associate (computational chemistry).  | - Molecular dynamics simulations of carbon nanoparticles under detonation conditions.      |
+|   **2010**      |                                                             | - Modeling the kinetics of carbon nanoparticles coalescence.                               |
+|                 | `CEA-DAM Ile de France.`_                                   | - Development of programs to analyze molecular dynamics simulations.                       |
+|                 |                                                             | - ...                                                                                      |
+|                 | Paris Area, France.                                         | - 3 publications.                                                                          |
++-------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------+
 
-+-----------------+-------------------------------------------------------------+
-|**2004**         | Ph.D. (computational chemistry).                            |
-|   **2008**      |                                                             |
-|                 | `University of Strasbourg.`_                                |
-|                 |                                                             |
-|                 | Strasbourg, France.                                         |
-+-----------------+-------------------------------------------------------------+
++-----------------+-------------------------------------------------------------+--------------------------------------------------------------------------------------------+
+|**2004**         | Ph.D. (computational chemistry).                            | - Molecular dynamics simulations of liquid-liquid interfaces.                              |
+|   **2008**      |                                                             | - Molecular dynamics simulations of ionic liquids.                                         |
+|                 | `University of Strasbourg.`_                                | - EUROPART: EUROpean research program for the PARTitioning of long-lived fission products. |
+|                 |                                                             | - ...                                                                                      |
+|                 | Strasbourg, France.                                         | - 4 publications.                                                                          |
++-----------------+-------------------------------------------------------------+--------------------------------------------------------------------------------------------+
 
 
 Education
