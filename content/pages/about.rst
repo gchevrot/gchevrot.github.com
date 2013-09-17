@@ -3,7 +3,8 @@ About me
 :date: 2013-09-04 15:37
 :author: G\. Chevrot
 
-|photo| I am a computational biophysicist (postdoc fellow) working in Synchrotron SOLEIL 
+![during my spare time ..](../static/images/ffc1ere_poigny_2012.jpg)
+I am a computational biophysicist (postdoc fellow) working in Synchrotron SOLEIL 
 at CNRS. Currently I am in the biophysics `group of G. Kneller`_ and I am part 
 of the Sputnik_ project. 
 My research interests include the dynamics of proteins and the coupling 
@@ -19,4 +20,5 @@ python at the moment) for analysis, storage problems (HDF5) or web development
 .. _Sputnik: http://dirac.cnrs-orleans.fr/sputnik/home/
 .. _group of G. Kneller: http://dirac.cnrs-orleans.fr/plone/
 .. |photo| image:: ../static/images/ffc1ere_poigny_2012.jpg
-
+   :scale: 70%
+   :align: left
