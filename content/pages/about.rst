@@ -4,10 +4,10 @@ About me
 :author: G\. Chevrot
 
 
+|photo|
 I am a computational biophysicist (postdoc fellow) working in Synchrotron SOLEIL 
 at CNRS. Currently I am in the biophysics `group of G. Kneller`_ and I am part 
 of the Sputnik_ project. 
-|photo|
 My research interests include the dynamics of proteins and the coupling 
 between molecular simulation and experiments. I really enjoy molecular
 simulations as a virtual microscope of life and I hope I will still be 
