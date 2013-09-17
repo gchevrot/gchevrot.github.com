@@ -17,7 +17,8 @@ python at the moment) for analysis, storage problems (HDF5) or web development
 (Django).
 
 
+    [image]: http://gchevrot.github.io/home/static/images/ffc1ere_poigny_2012.jpg
+
 .. _Sputnik: http://dirac.cnrs-orleans.fr/sputnik/home/
 .. _group of G. Kneller: http://dirac.cnrs-orleans.fr/plone/
-    [image]: http://gchevrot.github.io/home/static/images/ffc1ere_poigny_2012.jpg 
 
