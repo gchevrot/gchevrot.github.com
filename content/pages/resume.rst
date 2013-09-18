@@ -2,9 +2,13 @@ Resumé
 ######
 :author: G\. Chevrot
 
+.. container:: proverb
+
+    If you cannot - in the long run - tell everyone what you have been doing,
+    your doing has been worthless. -- Erwin Schrodinger
+
 
 Download my Resumé `[PDF]`_
-
 
 Professional Experience
 -----------------------
