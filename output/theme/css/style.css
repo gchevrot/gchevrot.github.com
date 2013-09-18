@@ -14,7 +14,7 @@ Guillaume Chevrot
     /*font-family: "Trebuchet MS", Verdana, Georgia, sans-serif;*/
     font-family: Verdana, Geneva, sans-serif;
     text-align: justify;
-    padding-top: 2px;
+    padding-top: 30px;
     padding-left: 300px;
     padding-right: 100px;
     overflow: auto;
@@ -143,18 +143,19 @@ td li
 #content .leftside /*class lefside is inside the id content*/
 {
     float: left;
+    padding-right: 5px;
 }
 #content .rightside
 {
     margin-left: 5px;
-    width: 75%;
+    width: 90%;
     font-family: Verdana, Geneva, sans-serif;
 }
 h2
 {
     text-align: center;
-    font-size: 0.7em;
+    font-size: 0.9em;
     font-family: fantasy;
-    font-style: italic;
+    padding-top: 0px;
 }
 
