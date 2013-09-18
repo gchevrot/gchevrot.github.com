@@ -144,3 +144,14 @@ td li
 {
     line-height:2.5em;
 }
+.leftside
+{
+    width: 414px;
+    padding: 0px 3px 0px 0px;
+    float: left;
+}
+.rightside
+{
+    margin-left: 425px;
+}
+
