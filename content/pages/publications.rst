@@ -2,6 +2,13 @@ Publications
 ############
 :author: G\. Chevrot
 
+
+.. container:: proverb
+
+    ~~ If you cannot - in the long run - tell everyone what you have been doing,
+    your doing has been worthless. -- Erwin Schrodinger ~~
+
+
 #. G. R. Kneller and G. Chevrot. Impact of anisotropic atomic motions in
    proteins on powder-averaged incoherent neutron scattering intensities. J.
    Chem. Phys. 137:225101, 2012. `[PDF]`__ 
