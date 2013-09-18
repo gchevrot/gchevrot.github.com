@@ -146,13 +146,11 @@ td li
 }
 .leftside
 {
-    width: 15%;
-    padding: 2px 2px 0px 0px;
     float: left;
 }
 .rightside
 {
     margin-left: 5px;
-    width: 70%;
+    font-family: fantasy;
 }
 
