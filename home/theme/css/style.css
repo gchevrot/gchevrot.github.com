@@ -155,7 +155,7 @@ td li
 {
     text-align: center;
     font-size: 0.8em;
-    font-family: fantasy;
+    font-family: fantasy, sans-serif;
     padding-top: 0px;
     padding-bottom: 120px;
 }
