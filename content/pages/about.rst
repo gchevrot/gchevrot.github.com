@@ -24,8 +24,6 @@ About me
 
 
 .. |photo| image:: http://gchevrot.github.io/home/static/images/ffc1ere_poigny_2012.jpg
-    :scale: 50
-
 .. _Sputnik: http://dirac.cnrs-orleans.fr/sputnik/home/
 .. _group of G. Kneller: http://dirac.cnrs-orleans.fr/plone/
 
