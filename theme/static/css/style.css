@@ -144,11 +144,11 @@ td li
 {
     line-height:2.5em;
 }
-.leftside
+#content .leftside
 {
     float: right;
 }
-.rightside
+#content .rightside
 {
     margin-left: 5px;
     font-family: fantasy;
