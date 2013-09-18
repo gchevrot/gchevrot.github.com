@@ -74,6 +74,12 @@ Education
 Skills
 ------
 
+# Extensive experience in molecular simulations.
+# Programming experience in Python, C, Shell
+scripting, Mathematica, Django, HTML, CSS, Git.
+# Experience working with large data sets (HDF5,
+NetCDF).
+# HPC experience. 
 
 
 
