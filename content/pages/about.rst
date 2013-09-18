@@ -3,6 +3,10 @@ About me
 :date: 2013-09-04 15:37
 :author: G\. Chevrot
 
+.. container:: proverb
+
+    If you want to go fast, go alone.  If you want to go far, go together. --
+    African Proverb
 
 .. container:: leftside
     

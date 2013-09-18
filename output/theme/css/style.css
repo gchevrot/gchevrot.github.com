@@ -41,11 +41,6 @@ h2
 {
     font-style: italic;
 }
-h3
-{
-    font-size: 0.7em;
-    font-family: fantasy;
-}
 a /* link */
 {
     text-decoration: none;
@@ -157,5 +152,11 @@ td li
 {
     margin-left: 5px;
     width: 75%;
+}
+#content .proverb
+{
+    text-align: center;
+    font-size: 0.7em;
+    font-family: fantasy;
 }
 
