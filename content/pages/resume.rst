@@ -20,10 +20,10 @@ Professional Experience
 +-----------------+-------------------------------------------------------------+--------------------------------------------------------------------------------------------+
 |**2008**         | Postdoctoral Research Associate (computational chemistry).  | - Molecular dynamics simulations of carbon nanoparticles under detonation conditions.      |
 |   **2010**      |                                                             | - Modeling the kinetics of carbon nanoparticles coalescence.                               |
-|                 | `CEA-DAM Ile de France.`_                                   | - Development of programs to analyze molecular dynamics simulations.                       |
+|                 | `CEA-DAM Ile de France.`_                                   | - Development of programs to analyze molecular dynamics simulations.                       | 
 |                 |                                                             | - ...                                                                                      |
 |                 | Paris Area, France.                                         | - 3 publications.                                                                          |
-+-------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------+
++-----------------+-------------------------------------------------------------+--------------------------------------------------------------------------------------------+
 
 +-----------------+-------------------------------------------------------------+--------------------------------------------------------------------------------------------+
 |**2004**         | Ph.D. (computational chemistry).                            | - Molecular dynamics simulations of liquid-liquid interfaces.                              |
