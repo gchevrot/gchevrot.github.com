@@ -76,7 +76,7 @@ Skills
 
     - Extensive experience in molecular simulations.
 
-    - Programming experience in Python, C, Shell scripting, Mathematica, Django, HTML, CSS, Git.
+    - Programming experience in Python, C, Shell scripting, Mathematica, `Django`_, HTML, CSS, `Git`_.
 
     - Experience working with large data sets (HDF5, NetCDF).
     
@@ -91,4 +91,5 @@ Skills
 .. _`University of Burgundy.`: http://en.u-bourgogne.fr/
 .. _`Methods in molecular simulation summer school`: http://www.ccp5.ac.uk/events/
 .. _`University of Sheffield.`: http://www.shef.ac.uk/
-
+.. _`Django`: http://dirac.cnrs-orleans.fr/sputnik/home/
+.. _`Git`: https://github.com/gchevrot
