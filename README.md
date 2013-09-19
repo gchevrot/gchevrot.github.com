@@ -1,1 +1,1 @@
-gchevrot.github.com
+http://gchevrot.github.io/home
