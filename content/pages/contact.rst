@@ -10,6 +10,8 @@ LinkedIn: `http://fr.linkedin.com/pub/guillaume-chevrot/58/35a/701`_
 
 Viadeo (French): `http://fr.viadeo.com/fr/profile/guillaume.chevrot`_
 
+ResearchGate: `http://www.researchgate.net/profile/Guillaume_Chevrot/`_
+
 website: `http://gchevrot.github.io/home/`_
 
 
@@ -31,4 +33,4 @@ Adress:
 .. _http://fr.linkedin.com/pub/guillaume-chevrot/58/35a/701: http://fr.linkedin.com/pub/guillaume-chevrot/58/35a/701
 .. _http://fr.viadeo.com/fr/profile/guillaume.chevrot: http://fr.viadeo.com/fr/profile/guillaume.chevrot
 .. _http://gchevrot.github.io/home/: http://gchevrot.github.io/home/
-
+.. _http://www.researchgate.net/profile/Guillaume_Chevrot/: http://www.researchgate.net/profile/Guillaume_Chevrot/
