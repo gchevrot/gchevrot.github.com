@@ -51,9 +51,9 @@ Publications
 
 .. raw:: html
 
-   <span id='badgeCont77200' style='width:126px'><script
-   src='http://labs.researcherid.com/mashlets?el=badgeCont77200&mashlet=badge&showTitle=false&className=a&rid=A-2418-2012'></script></span>
-
+    <p>
+    <span id='badgeCont77200' style='width:126px'><script src='http://labs.researcherid.com/mashlets?el=badgeCont77200&mashlet=badge&showTitle=false&className=a&rid=A-2418-2012'></script></span>
+    </p>
 
 
 
