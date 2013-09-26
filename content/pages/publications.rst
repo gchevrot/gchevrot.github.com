@@ -47,12 +47,13 @@ Publications
    dicarbollide anions: A molecular dynamics study. J. Phys. Chem. B 
    110:9488, 2006. `[PDF]`__
 
-   See my `Google Scholar profile`_
+
+See my `Google Scholar profile`_
 
 .. raw:: html
 
     <p>
-    See my ResearcherID profile <span id='badgeCont77200' style='width:126px'><script src='http://labs.researcherid.com/mashlets?el=badgeCont77200&mashlet=badge&showTitle=false&className=a&rid=A-2418-2012'></script></span>
+    See my ResearcherID profile <span id='badgeCont77200' style='width:26px'><script src='http://labs.researcherid.com/mashlets?el=badgeCont77200&mashlet=badge&showTitle=false&className=a&rid=A-2418-2012'></script></span>
     </p>
 
 
