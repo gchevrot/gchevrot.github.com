@@ -49,6 +49,13 @@ Publications
 
    See my `Google Scholar profile`_
 
+.. raw:: html
+
+   <span id='badgeCont77200' style='width:126px'><script
+   src='http://labs.researcherid.com/mashlets?el=badgeCont77200&mashlet=badge&showTitle=false&className=a&rid=A-2418-2012'></script></span>
+
+
+
 
 __ http://gchevrot.github.io/home/static/pdfs/JChemPhys_137_225101_2012.pdf
 __ http://gchevrot.github.io/home/static/pdfs/JChemPhys_136_084506_2012.pdf
