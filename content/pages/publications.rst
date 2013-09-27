@@ -50,6 +50,8 @@ Publications
 
 See my `Google Scholar profile`_
 
+See my `ORCID profile`_
+
 .. raw:: html
 
     <p>
@@ -68,5 +70,5 @@ __ http://gchevrot.github.io/home/static/pdfs/PCCP_9_1991_2007.pdf
 __ http://gchevrot.github.io/home/static/pdfs/PCCP_8_4166_2006.pdf
 __ http://gchevrot.github.io/home/static/pdfs/JPhysChemB_110_9488_2006.pdf
 .. _Google Scholar profile: http://scholar.google.fr/citations?user=m5KlXI8AAAAJ&hl=en
-
+.. _ORCID profile: http://orcid.org/0000-0001-7912-2235
 
