@@ -3,6 +3,12 @@ Resumé
 :author: G\. Chevrot
 
 
+.. container:: proverb
+
+    ~~ Only the mediocre are supremely confident in their ability.
+    -- Michael Atiyah ~~
+
+
 Download my Resumé `[PDF]`_
 
 Professional Experience
