@@ -20,11 +20,11 @@ About me
     of the Sputnik_ project. 
     My research interests include the dynamics of proteins and the coupling 
     between molecular simulation and experiments. I really enjoy molecular
-    simulations as a virtual microscope of molecules. Simulations are a powerful 
+    simulations as a virtual microscope of molecules and as a powerful 
     tool to build models in order to explain and predict the properties of
     materials.
-    In my daily life, my work includes application of existing packages like Gromacs, 
-    NAMD, MMTK, nMoldyn ... but also the development of new codes (especially with 
+    In my daily life, my work includes application of existing packages like AMBER, 
+    Gromacs, MMTK, nMoldyn ... but also the writing of codes (especially in 
     python at the moment) for analysis, storage problems (HDF5) or even web 
     development (Django).
 
