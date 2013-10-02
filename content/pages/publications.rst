@@ -10,10 +10,13 @@ Publications
 
 
 See my profile on:
-.. container:: profiles
 
-    |google scholar|
-    |orcid|
+|google scholar|
+
+
+|orcid|
+
+
 .. raw:: html
 
     <p>

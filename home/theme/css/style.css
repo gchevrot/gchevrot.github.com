@@ -160,8 +160,3 @@ td li
 {
     font-family: fantasy, sans-serif;
 }
-#content .profiles
-{
-    display:table-cell;
-    text-align:center;
-}
