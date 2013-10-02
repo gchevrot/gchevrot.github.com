@@ -15,8 +15,8 @@ About me
 
 .. container:: rightside
 
-    I am a computational biophysicist (postdoc fellow) working in Synchrotron SOLEIL 
-    at CNRS. Currently I am in the biophysics `group of G. Kneller`_ and I am part 
+    I am a computational biophysicist (postdoc fellow) working at `Synchrotron SOLEIL`_
+    / CNRS_. Currently I am in the biophysics `group of G. Kneller`_ and I am part 
     of the Sputnik_ project. 
     My research interests include the dynamics of proteins and the coupling 
     between molecular simulation and experiments. I really enjoy molecular
@@ -31,5 +31,7 @@ About me
 
 .. |photo| image:: http://gchevrot.github.io/home/static/images/ffc1ere_poigny_2012.jpg
 .. _Sputnik: http://dirac.cnrs-orleans.fr/sputnik/home/
+.. _Synchrotron SOLEIL: http://www.synchrotron-soleil.fr/ 
+.. _CNRS: http://www.cnrs.fr/index.php
 .. _group of G. Kneller: http://dirac.cnrs-orleans.fr/plone/
 
