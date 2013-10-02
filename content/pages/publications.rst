@@ -14,12 +14,12 @@ See my profile on:
 
     |google scholar|
     |orcid|
-    .. raw:: html
+.. raw:: html
 
-        <p>
-        <span id='badgeCont91663' style='width:126px'><script
-        src='http://labs.researcherid.com/mashlets?el=badgeCont91663&mashlet=badge&showTitle=false&className=a&rid=A-2418-2012'></script></span>
-        </p>
+    <p>
+    <span id='badgeCont91663' style='width:126px'><script
+    src='http://labs.researcherid.com/mashlets?el=badgeCont91663&mashlet=badge&showTitle=false&className=a&rid=A-2418-2012'></script></span>
+    </p>
 
 
 #. G. R. Kneller and G. Chevrot. Impact of anisotropic atomic motions in
