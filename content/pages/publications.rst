@@ -9,6 +9,11 @@ Publications
     your doing has been worthless. -- Erwin Schrodinger ~~
 
 
+See my profile on:
+
+   |google scholar|
+
+
 #. G. R. Kneller and G. Chevrot. Impact of anisotropic atomic motions in
    proteins on powder-averaged incoherent neutron scattering intensities. J.
    Chem. Phys. 137:225101, 2012. `[PDF]`__ 
@@ -60,6 +65,7 @@ See my `ORCID profile`_
 
 
 
+.. |google scholar| image:: http://gchevrot.github.io/home/static/images/google_scholar.png
 __ http://gchevrot.github.io/home/static/pdfs/JChemPhys_137_225101_2012.pdf
 __ http://gchevrot.github.io/home/static/pdfs/JChemPhys_136_084506_2012.pdf
 __ http://gchevrot.github.io/home/static/pdfs/JChemPhys_135_084110_2011.pdf
