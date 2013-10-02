@@ -66,6 +66,8 @@ See my `ORCID profile`_
 
 
 .. |google scholar| image:: http://gchevrot.github.io/home/static/images/google_scholar.png
+                    :alt: Google Scholar
+                    :target: http://scholar.google.fr/citations?user=m5KlXI8AAAAJ&hl=en
 __ http://gchevrot.github.io/home/static/pdfs/JChemPhys_137_225101_2012.pdf
 __ http://gchevrot.github.io/home/static/pdfs/JChemPhys_136_084506_2012.pdf
 __ http://gchevrot.github.io/home/static/pdfs/JChemPhys_135_084110_2011.pdf
