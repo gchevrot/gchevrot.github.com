@@ -17,13 +17,10 @@ See my profile on:
 |                   |                   |                   |                    |
 +-------------------+-------------------+-------------------+--------------------+
 
-.. raw:: html
 
-    <p>
-    <span id='badgeCont91663' style='width:126px'><script
-    src='http://labs.researcherid.com/mashlets?el=badgeCont91663&mashlet=badge&showTitle=false&className=a&rid=A-2418-2012'></script></span>
-    </p>
-
+#. G. Chevrot, K. Hinsen and G. R. Kneller. Model-free simulation approach 
+   to molecular diffusion tensors.
+   J. Chem. Phys. (accepted), 2013.
 
 #. G. R. Kneller and G. Chevrot. Impact of anisotropic atomic motions in
    proteins on powder-averaged incoherent neutron scattering intensities. J.
