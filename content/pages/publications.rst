@@ -11,23 +11,16 @@ Publications
 
 See my profile on:
 
-+-------------------+
-|                   |
-|  |researchGate|   |
-|                   |
-+-------------------+
-|                   |
-| |google scholar|  |
-|                   |
-+-------------------+
-|                   |
-|     |orcid|       |
-|                   |
-+-------------------+
-|                   |
-| |researcherID|    |
-|                   |
-+-------------------+
++-------------------+-------------------+
+|                   |                   |
+|  |researchGate|   | |google scholar|  |
+|                   |                   |
++-------------------+-------------------+
+|                   |                   |
+|     |orcid|       |  |researcherID|   |
+|                   |                   |
++-------------------+-------------------+
+
 
 
 
@@ -73,16 +66,6 @@ See my profile on:
    dicarbollide anions: A molecular dynamics study. J. Phys. Chem. B 
    110:9488, 2006. `[PDF]`__
 
-
-See my `Google Scholar profile`_
-
-See my `ORCID profile`_
-
-.. raw:: html
-
-    <p>
-    See my ResearcherID profile <span id='badgeCont680791' style='width:26px'><script src='http://labs.researcherid.com/mashlets?el=badgeCont680791&mashlet=badge&showTitle=false&className=a&rid=A-2418-2012&size=small'></script></span>
-    </p>
 
 
 
