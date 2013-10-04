@@ -71,15 +71,19 @@ See my profile on:
 
 .. |researchGate| image:: http://gchevrot.github.io/home/static/images/researchGate.png
                   :alt: Research Gate
+                  :scale: 50%
                   :target: http://www.researchgate.net/profile/Guillaume_Chevrot/
 .. |google scholar| image:: http://gchevrot.github.io/home/static/images/google_scholar.png
                     :alt: Google Scholar
+                    :scale: 50%
                     :target: http://scholar.google.fr/citations?user=m5KlXI8AAAAJ&hl=en
 .. |orcid| image:: http://gchevrot.github.io/home/static/images/orcid.png
            :alt: ORCID
+           :scale: 50%
            :target: http://orcid.org/0000-0001-7912-2235
 .. |researcherID| image:: http://gchevrot.github.io/home/static/images/researcherID.png
                   :alt: researcherID
+                  :scale: 50%
                   :target: http://www.researcherid.com/rid/A-2418-2012
 __ http://gchevrot.github.io/home/static/pdfs/JChemPhys_137_225101_2012.pdf
 __ http://gchevrot.github.io/home/static/pdfs/JChemPhys_136_084506_2012.pdf
