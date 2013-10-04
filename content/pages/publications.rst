@@ -13,7 +13,7 @@ See my profile on:
 
 +-------------------+-------------------+-------------------+--------------------+
 |                   |                   |                   |                    |
-| |researchGate|    | |google scholar|  |     |orcid|       |  |researcherID|    |
+|  |researchGate|   | |google scholar|  |     |orcid|       |  |researcherID|    |
 |                   |                   |                   |                    |
 +-------------------+-------------------+-------------------+--------------------+
 
@@ -85,7 +85,7 @@ See my `ORCID profile`_
 .. |orcid| image:: http://gchevrot.github.io/home/static/images/orcid.png
            :alt: ORCID
            :target: http://orcid.org/0000-0001-7912-2235
-.. |researcherID| image:: http://gchevrot.github.io/home/static/images/google_scholar.png
+.. |researcherID| image:: http://gchevrot.github.io/home/static/images/researcherID.png
                   :alt: researcherID
                   :target: http://www.researcherid.com/rid/A-2418-2012
 __ http://gchevrot.github.io/home/static/pdfs/JChemPhys_137_225101_2012.pdf
