@@ -119,7 +119,7 @@ td,th /*cell and head cell*/
 /*first column*/
 #content table td:nth-child(1) 
 {
-    vertical-align: center;
+//    vertical-align: center;
     font-family: sans-serif;
     width: 15%;
 }

@@ -11,11 +11,24 @@ Publications
 
 See my profile on:
 
-+-------------------+-------------------+-------------------+--------------------+
-|                   |                   |                   |                    |
-|  |researchGate|   | |google scholar|  |     |orcid|       |  |researcherID|    |
-|                   |                   |                   |                    |
-+-------------------+-------------------+-------------------+--------------------+
++-------------------+
+|                   |
+|  |researchGate|   |
+|                   |
++-------------------+
+|                   |
+| |google scholar|  |
+|                   |
++-------------------+
+|                   |
+|     |orcid|       |
+|                   |
++-------------------+
+|                   |
+| |researcherID|    |
+|                   |
++-------------------+
+
 
 
 #. G. Chevrot, K. Hinsen and G. R. Kneller. Model-free simulation approach 
