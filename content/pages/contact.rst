@@ -12,6 +12,8 @@ Viadeo (French): `http://fr.viadeo.com/fr/profile/guillaume.chevrot`_
 
 ResearchGate: `http://www.researchgate.net/profile/Guillaume_Chevrot/`_
 
+ORCID: `0000-0001-7912-2235`_
+
 website: `http://gchevrot.github.io/home/`_
 
 
@@ -32,5 +34,6 @@ Adress:
 .. _@gchevrot: https://twitter.com/gchevrot
 .. _http://fr.linkedin.com/pub/guillaume-chevrot/58/35a/701: http://fr.linkedin.com/pub/guillaume-chevrot/58/35a/701
 .. _http://fr.viadeo.com/fr/profile/guillaume.chevrot: http://fr.viadeo.com/fr/profile/guillaume.chevrot
-.. _http://gchevrot.github.io/home/: http://gchevrot.github.io/home/
 .. _http://www.researchgate.net/profile/Guillaume_Chevrot/: http://www.researchgate.net/profile/Guillaume_Chevrot/
+.. _0000-0001-7912-2235: http://orcid.org/0000-0001-7912-2235
+.. _http://gchevrot.github.io/home/: http://gchevrot.github.io/home/
