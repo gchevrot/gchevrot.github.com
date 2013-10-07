@@ -20,7 +20,7 @@ ARTICLE_SAVE_AS = 'posts/{date:%Y}/{date:%m}/{date:%d}/{slug}/post.html'
 TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = u'en'
-DEFAULT_DATE = 'fs'
+DEFAULT_DATE_FORMAT = '%a %d %B %Y'
 
 OUTPUT_PATH = 'home'
 
