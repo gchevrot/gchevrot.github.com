@@ -12,6 +12,8 @@ SITEURL = 'http://gchevrot.github.io/home'
 #SITEURL = '/Users/guillaume/Documents/WebSite/Pelican/gchevrot/output'
 
 # Posts
+PATH='content'
+ARTICLE_DIR = 'posts'
 ARTICLE_URL = 'posts/{date:%Y}/{date:%m}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = 'posts/{date:%Y}/{date:%m}/{date:%d}/{slug}/post.html'
 
