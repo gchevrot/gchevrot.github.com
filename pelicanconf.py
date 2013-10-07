@@ -11,6 +11,10 @@ STATIC_PATHS = ['images', 'pdfs']
 SITEURL = 'http://gchevrot.github.io/home'
 #SITEURL = '/Users/guillaume/Documents/WebSite/Pelican/gchevrot/output'
 
+# Posts
+ARTICLE_URL = 'posts/{date:%Y}/{date:%m}/{date:%d}/{slug}/'
+ARTICLE_SAVE_AS = 'posts/{date:%Y}/{date:%m}/{date:%d}/{slug}/post.html'
+
 TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = u'en'
