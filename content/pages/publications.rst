@@ -89,7 +89,7 @@ See my profile on:
            :target: http://orcid.org/0000-0001-7912-2235
 .. |researcherID| image:: http://gchevrot.github.io/home/static/images/researcherID.png
                   :alt: researcherID
-                  :height: 20px
+                  :height: 19px
                   :align: bottom
                   :target: http://www.researcherid.com/rid/A-2418-2012
 .. |google scholar| image:: http://gchevrot.github.io/home/static/images/google_scholar.png
