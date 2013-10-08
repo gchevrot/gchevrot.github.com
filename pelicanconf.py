@@ -13,14 +13,14 @@ SITEURL = 'http://gchevrot.github.io/home'
 
 # Posts
 # Custom Home page
-DIRECT_TEMPLATES = (('index', 'blog', 'tags', 'categories', 'archives'))
-PAGINATED_DIRECT_TEMPLATES = (('blog',))
-TEMPLATE_PAGES = {'blog.html': 'index.html',}
+#DIRECT_TEMPLATES = (('index', 'blog', 'tags', 'categories', 'archives'))
+#PAGINATED_DIRECT_TEMPLATES = (('blog',))
+#TEMPLATE_PAGES = {'blog.html': 'index.html',}
 
 PATH='content'
 ARTICLE_DIR = 'posts'
-ARTICLE_URL = 'posts/{date:%Y}/{date:%m}_{date:%d}/{slug}/'
-ARTICLE_SAVE_AS = 'posts/{date:%Y}/{date:%m}_{date:%d}/{slug}/index.html'
+ARTICLE_URL = 'posts/{date:%Y}/{date:%m}/{date:%d}/{slug}/'
+ARTICLE_SAVE_AS = 'posts/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 
 TIMEZONE = 'Europe/Paris'
 
