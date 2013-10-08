@@ -12,9 +12,9 @@ SITEURL = 'http://gchevrot.github.io/home'
 #SITEURL = '/Users/guillaume/Documents/WebSite/Pelican/gchevrot/output'
 
 # Posts
-# Custom Home page
-#DIRECT_TEMPLATES = (('index', 'blog', 'tags', 'categories', 'archives'))
-#PAGINATED_DIRECT_TEMPLATES = (('blog',))
+# Custom blog page
+DIRECT_TEMPLATES = (('index', 'blog', 'tags', 'categories', 'archives'))
+PAGINATED_DIRECT_TEMPLATES = (('blog',))
 #TEMPLATE_PAGES = {'blog.html': 'index.html',}
 
 PATH='content'
