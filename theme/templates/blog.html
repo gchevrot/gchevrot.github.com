@@ -1,5 +1,7 @@
 {% extends "base.html" %}
 
+{% block content %}
+
 {% set active_page = "blog" %}
 {% block title %}{{ SITENAME }} - Blog{% endblock %}
 
@@ -13,25 +15,24 @@
 <center><img src="./static/images/coming_soon.png"></center> 
 
 
-{% block content %}
-
 {% for article in (articles_page.object_list if articles_page else articles) %}
     <div class="blogItem">
     <h1><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h1>
-    {{ article.content }}
+    <!--    {{ article.content }} -->
 
-    <div class="blogMeta">
-    Author: <a href="mailto: {{ AUTHOR_EMAIL }}">{{ article.author }}</a><br>
-    Date: {{ article.locale_date }}<br>
+    <!--    {<div class="blogMeta"> -->
+    <!--    {Author: <a href="mailto: {{ AUTHOR_EMAIL }}">{{ article.author }}</a><br> -->
+    <!--    {Date: {{ article.locale_date }}<br> -->
     {% if article.tags %}
         Tags:
         {% for tag in article.tags %}
-            <a href="{{ SITEURL }}/{{ tag.url }}">
-            {{ tag }}</a>{% if not loop.last %}, {% endif %}
+            {{ tag }}
+        <!--    {    <a href="{{ SITEURL }}/{{ tag.url }}"> -->
+        <!--    {    {{ tag }}</a>{% if not loop.last %}, {% endif %} -->
         {% endfor %}<br />
     {% endif %}
-    <a href="{{ SITEURL }}/{{ article.url }}#disqus_thread">Comments</a> -
-    <a href="{{ SITEURL }}/{{ article.url }}">Permalink</a>
+    <!--    {<a href="{{ SITEURL }}/{{ article.url }}#disqus_thread">Comments</a> - -->
+    <!--    {<a href="{{ SITEURL }}/{{ article.url }}">Permalink</a> -->
     </div>
     </div><!-- end #blogItem -->
 {% endfor %}
