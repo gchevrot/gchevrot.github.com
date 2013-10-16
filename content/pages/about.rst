@@ -24,9 +24,9 @@ About me
     tool to build models in order to explain and predict the properties of
     materials.
     In my daily life, my work includes application of existing packages like AMBER, 
-    Gromacs, MMTK, nMoldyn ... but also the writing of codes (especially in 
-    python at the moment) for analysis, storage problems (HDF5) or even web 
-    development (Django).
+    Gromacs, MMTK, nMoldyn ... but also the writing of codes (Python, C,
+    Mathematica ...) for analysis, storage problems (HDF5), web development 
+    (Django) ...
 
 
 .. |photo| image:: http://gchevrot.github.io/home/static/images/ffc1ere_poigny_2012.jpg
