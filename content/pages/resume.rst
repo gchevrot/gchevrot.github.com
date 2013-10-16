@@ -17,8 +17,8 @@ Professional Experience
 +-----------------+-------------------------------------------------------------+--------------------------------------------------------------------------------------------+
 |**2011**         | Postdoctoral Research Associate (computational biophysics). | - Extraction of internal motions from molecular dynamics simulations.                      |
 |   **Present**   |                                                             | - Impact of anisotropic atomic motions on incoherent neutron scattering intensities.       |
-|                 | `CNRS / SOLEIL synchrotron.`_                               | - Contribution to software developments (nMoldyn, Screwfit Server).                        | 
-|                 |                                                             | - Performance tests of HDF5 files.                                                         |
+|                 | `CNRS / SOLEIL synchrotron.`_                               | - Scripting for simulations analysis.                                                      | 
+|                 |                                                             | - Performance tests (serial and parallel) of HDF5 files.                                   |
 |                 | Paris Area, France.                                         | - ...                                                                                      |
 |                 |                                                             | - 3 publications.                                                                          |
 +-----------------+-------------------------------------------------------------+--------------------------------------------------------------------------------------------+
