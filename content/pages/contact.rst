@@ -55,7 +55,7 @@ Adress:
            :alt: email
            :height: 29px
            :align: bottom
-           :target: guillaume.chevrot@gmail.com
+           :target: mailto:guillaume.chevrot@gmail.com
 .. |twitter| image:: http://gchevrot.github.io/home/static/images/twitter.jpg
              :alt: twitter
              :height: 25px
@@ -63,7 +63,7 @@ Adress:
              :target: https://twitter.com/gchevrot
 .. |linkedin| image:: http://gchevrot.github.io/home/static/images/linkedin3.png
               :alt: LinkedIn
-              :height: 25px
+              :height: 27px
               :align: bottom
               :target: http://fr.linkedin.com/pub/guillaume-chevrot/58/35a/701
 .. |viadeo| image:: http://gchevrot.github.io/home/static/images/viadeo.jpg
