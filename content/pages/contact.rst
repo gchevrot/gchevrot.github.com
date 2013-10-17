@@ -14,6 +14,8 @@ ResearchGate: `http://www.researchgate.net/profile/Guillaume_Chevrot/`_
 
 ORCID: `0000-0001-7912-2235`_
 
+FigShare: `http://figshare.com/authors/Guillaume_Chevrot/469535`_
+
 website: `http://gchevrot.github.io/home/`_
 
 
