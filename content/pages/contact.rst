@@ -17,7 +17,7 @@ ORCID: `0000-0001-7912-2235`_
 website: `http://gchevrot.github.io/home/`_
 
 
-.. |soleil| 
+|soleil| 
 
 Adress:
 
