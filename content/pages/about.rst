@@ -25,7 +25,7 @@ About me
     materials.
     In my daily life, my work includes application of existing packages like AMBER, 
     Gromacs, MMTK, nMoldyn ... but also the writing of codes (Python, C,
-    Mathematica ...) for analysis, storage problems (HDF5), web development 
+    Mathematica) for analysis, storage problems (HDF5), web development 
     (Django) ...
 
 
