@@ -34,7 +34,7 @@ See my profile on:
 
 #. G. Chevrot, K. Hinsen and G. R. Kneller. Model-free simulation approach 
    to molecular diffusion tensors.
-   J. Chem. Phys. 139:154110, 2013. `[PDF]`__ / `[DOI]`__
+   J. Chem. Phys. 139:154110, 2013. `[PDF]`__ - `[DOI]`__
 
    Supplementary material for `water`_ and `lysozyme`_
 
