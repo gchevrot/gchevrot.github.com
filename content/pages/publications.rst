@@ -34,7 +34,8 @@ See my profile on:
 
 #. G. Chevrot, K. Hinsen and G. R. Kneller. Model-free simulation approach 
    to molecular diffusion tensors.
-   J. Chem. Phys. (accepted), 2013.
+   J. Chem. Phys. 139:154110, 2013. `[PDF]`__ / `[DOI]`__
+   Supplementary material for `water`_ and `lysozyme`_
 
 #. G. R. Kneller and G. Chevrot. Impact of anisotropic atomic motions in
    proteins on powder-averaged incoherent neutron scattering intensities. J.
@@ -97,6 +98,10 @@ See my profile on:
                     :height: 21px
                     :align: bottom
                     :target: http://scholar.google.fr/citations?user=m5KlXI8AAAAJ&hl=en
+.. _water: http://figshare.com/articles/Model_free_simulation_approach_to_molecular_diffusion_tensors_Water/808595
+.. _lysozyme: http://figshare.com/articles/Model_free_simulation_approach_to_molecular_diffusion_tensors_Lysozyme/808594
+__ http://gchevrot.github.io/home/static/pdfs/JChemPhys_139_154110_2013.pdf
+__ http://dx.doi.org/10.1063/1.4823996
 __ http://gchevrot.github.io/home/static/pdfs/JChemPhys_137_225101_2012.pdf
 __ http://gchevrot.github.io/home/static/pdfs/JChemPhys_136_084506_2012.pdf
 __ http://gchevrot.github.io/home/static/pdfs/JChemPhys_135_084110_2011.pdf
