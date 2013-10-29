@@ -5,8 +5,8 @@ Resumé
 
 .. container:: proverb
 
-    ~~ Only the mediocre are supremely confident in their ability.
-    -- Michael Atiyah ~~
+    ~~ Try to learn something about everything and everything about something.
+    -- Thomas Henry Huxley ~~
 
 
 Download my Resumé `[PDF]`_
