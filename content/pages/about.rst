@@ -29,7 +29,7 @@ About me
     (Django) ...
 
 
-.. |photo| image:: http://gchevrot.github.io/home/static/images/ffc1ere_poigny_2012.jpg
+.. |photo| image:: http://gchevrot.github.io/home/static/images/photo.jpg
 .. _Sputnik: http://dirac.cnrs-orleans.fr/sputnik/home/
 .. _Synchrotron SOLEIL: http://www.synchrotron-soleil.fr/ 
 .. _CNRS: http://www.cnrs.fr/index.php
