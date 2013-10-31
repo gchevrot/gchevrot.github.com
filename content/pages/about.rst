@@ -17,7 +17,7 @@ About me
 
     I am a computational biophysicist (postdoc fellow) working at `Synchrotron SOLEIL`_
     / CNRS_. Currently I am in the biophysics `group of G. Kneller`_ and I am part 
-    of the Sputnik_ project (dynamics of proteins and the coupling between molecular 
+    of the Sputnik_ project (dynamics of proteins and coupling between molecular 
     simulation and experiments). 
     My research interests are in biomolecular simulation. I enjoy molecular
     simulations as a virtual microscope of molecules and as a powerful 
