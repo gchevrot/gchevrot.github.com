@@ -35,21 +35,20 @@ Contact
 `http://gchevrot.github.io/home/`_
 
 
-|soleil| 
+|sdu| 
 
 Adress:
 
     Guillaume Chevrot
 
-    Centre de Biophysique Moléculaire, CNRS Orléans
+    MEMPHYS - Center for Biomembrane Physics
 
-    Synchrotron Soleil - Division Expériences
+    Department of Physics, Chemistry and Pharmacy
     
-    Saint Aubin - BP 48
+    University of Southern Denmark
     
-    91192 Gif sur Yvette Cedex, FRANCE
-
-
+    Campusvej 55, 5230 Odense M, Denmark
+   
 
 .. |gmail| image:: http://gchevrot.github.io/home/static/images/gmail_logo.png
            :alt: email
@@ -87,7 +86,7 @@ Adress:
               :align: bottom
               :target: http://figshare.com/authors/Guillaume_Chevrot/469535
 .. _http://gchevrot.github.io/home/: http://gchevrot.github.io/home/
-.. |soleil| image:: http://gchevrot.github.io/home/static/images/soleil.jpg
+.. |sdu| image:: http://gchevrot.github.io/home/static/images/sdu.jpg
             :alt: SOLEIL synchrotron
             :target: http://www.synchrotron-soleil.fr/portal/page/portal/Accueil
 
