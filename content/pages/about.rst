@@ -15,18 +15,17 @@ About me
 
 .. container:: rightside
 
-    I am a computational biophysicist (postdoc fellow) working at `Synchrotron SOLEIL`_
-    / CNRS_. Currently I am in the biophysics `group of G. Kneller`_ and I am part 
-    of the Sputnik_ project (dynamics of proteins and coupling between molecular 
-    simulation and experiments). 
+    I am a computational biophysicist (postdoc fellow) working at MEMPHYS_ -
+    Center for Biomembrane Physics - at the `University of Southern Denmark`_ 
+    Currently I am in the biophysics `group of H. Khandelia`_ and I am using
+    molecular dynamics to study membrane proteins.
     My research interests are in biomolecular simulation. I enjoy molecular
     simulations as a virtual microscope of molecules and as a powerful 
     tool to explain and predict the properties of materials.
 
 
 .. |photo| image:: http://gchevrot.github.io/home/static/images/photo.jpg
-.. _Sputnik: http://dirac.cnrs-orleans.fr/sputnik/home/
-.. _Synchrotron SOLEIL: http://www.synchrotron-soleil.fr/ 
-.. _CNRS: http://www.cnrs.fr/index.php
-.. _group of G. Kneller: http://dirac.cnrs-orleans.fr/plone/
+.. _MEMPHYS: http://www.memphys.dk/ 
+.. _University of Southern Denmark: http://www.sdu.dk/en/
+.. _group of H. Khandelia: http://www.memphys.dk/Himanshu-Khandelia
 
