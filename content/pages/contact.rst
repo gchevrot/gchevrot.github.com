@@ -85,7 +85,7 @@ Adress:
               :height: 29px
               :align: bottom
               :target: http://figshare.com/authors/Guillaume_Chevrot/469535
-.. _http://gchevrot.github.io/home/: http://gchevrot.github.io/home/
+.. _https://gchevrot.github.io/home/: https://gchevrot.github.io/home/
 .. |sdu| image:: https://gchevrot.github.io/home/static/images/sdu.jpg
             :alt: SOLEIL synchrotron
             :target: http://www.synchrotron-soleil.fr/portal/page/portal/Accueil
