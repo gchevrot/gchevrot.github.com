@@ -8,7 +8,7 @@ AUTHOR = u'gchevrot'
 SITENAME = u'Guillaume Chevrot'
 USE_FOLDER_AS_CATEGORY = 'True'
 STATIC_PATHS = ['images', 'pdfs']
-SITEURL = 'http://gchevrot.github.io/home'
+SITEURL = 'https://gchevrot.github.io/home'
 #SITEURL = '/Users/guillaume/Documents/WebSite/Pelican/gchevrot/output'
 
 # Posts
@@ -34,7 +34,7 @@ OUTPUT_PATH = 'home'
 # =======
 THEME = 'theme'
 
-GITHUB_URL = 'http://github.com/gchevrot/'
+GITHUB_URL = 'https://github.com/gchevrot/'
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None

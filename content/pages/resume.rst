@@ -90,7 +90,7 @@ Skills
 
 
 
-.. _[PDF]: http://gchevrot.github.io/home/static/pdfs/cv_gchevrot.pdf 
+.. _[PDF]: https://gchevrot.github.io/home/static/pdfs/cv_gchevrot.pdf 
 .. _`CNRS / SOLEIL synchrotron.`: http://dirac.cnrs-orleans.fr/plone/
 .. _`CEA-DAM Ile de France.`: http://www.cea.fr/le-cea/les-centres-cea/dam-ile-de-france
 .. _`University of Strasbourg.`: http://www-chimie.u-strasbg.fr/~msm/
