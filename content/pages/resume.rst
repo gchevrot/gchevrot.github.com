@@ -14,13 +14,21 @@ Download my Resumé `[PDF]`_
 Professional Experience
 -----------------------
 
+
++-----------------+-------------------------------------------------------------+--------------------------------------------------------------------------------------------+
+|**2014**         | Postdoctoral Research Associate (computational biophysics). | - Molecular dynamics simulations of the Na+/K+-ATPase membrane protein.                    |
+|   **Present**   |                                                             | - Adaptation of a new molecular dynamics method for the simulation of proteins.            |
+|                 | `MEMPHYS - Center for Biomembrane Physics`_                 | - ...                                                                                      | 
+|                 |                                                             |                                                                                            |
+|                 | Univerty of Southern Denmark, Odense, Denmark.              |                                                                                            |
++-----------------+-------------------------------------------------------------+--------------------------------------------------------------------------------------------+
+
 +-----------------+-------------------------------------------------------------+--------------------------------------------------------------------------------------------+
 |**2011**         | Postdoctoral Research Associate (computational biophysics). | - Extraction of internal motions from molecular dynamics simulations.                      |
-|   **Present**   |                                                             | - Impact of anisotropic atomic motions on incoherent neutron scattering intensities.       |
+|   **2014**      |                                                             | - Impact of anisotropic atomic motions on incoherent neutron scattering intensities.       |
 |                 | `CNRS / SOLEIL synchrotron.`_                               | - Scripting for simulations analysis.                                                      | 
-|                 |                                                             | - Performance tests (serial and parallel) of HDF5 files.                                   |
-|                 | Paris Area, France.                                         | - ...                                                                                      |
-|                 |                                                             | - 3 publications.                                                                          |
+|                 |                                                             | - ...                                                                                      |
+|                 | Paris Area, France.                                         | - 3 publications.                                                                          |
 +-----------------+-------------------------------------------------------------+--------------------------------------------------------------------------------------------+
 
 +-----------------+-------------------------------------------------------------+--------------------------------------------------------------------------------------------+
@@ -90,7 +98,8 @@ Skills
 
 
 
-.. _[PDF]: https://gchevrot.github.io/home/static/pdfs/cv_gchevrot.pdf 
+.. _[PDF]: https://gchevrot.github.io/home/static/pdfs/cv_gchevrot.pdf
+.. _`MEMPHYS - Center for Biomembrane Physics`: http://www.memphys.dk/
 .. _`CNRS / SOLEIL synchrotron.`: http://dirac.cnrs-orleans.fr/plone/
 .. _`CEA-DAM Ile de France.`: http://www.cea.fr/le-cea/les-centres-cea/dam-ile-de-france
 .. _`University of Strasbourg.`: http://www-chimie.u-strasbg.fr/~msm/
