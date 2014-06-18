@@ -21,7 +21,7 @@ About me
     molecular dynamics to study membrane proteins.
     My research interests are in biomolecular simulation. I enjoy molecular
     simulations as a virtual microscope of molecules and as a powerful 
-    tool to explain and predict the properties of materials.
+    tool to explain and predict their properties.
 
 
 .. |photo| image:: https://gchevrot.github.io/home/static/images/photo.jpg
