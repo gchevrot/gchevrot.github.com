@@ -24,7 +24,7 @@ About me
     tool to explain and predict the properties of materials.
 
 
-.. |photo| image:: https://gchevrot.github.io/home/static/images/photo.jpg
+.. |photo| image:: https://gchevrot.github.io/home/images/photo.jpg
 .. _MEMPHYS: http://www.memphys.dk/ 
 .. _University of Southern Denmark: http://www.sdu.dk/en/
 .. _group of H. Khandelia: http://www.memphys.dk/Himanshu-Khandelia

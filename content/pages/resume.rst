@@ -98,7 +98,7 @@ Skills
 
 
 
-.. _[PDF]: https://gchevrot.github.io/home/static/pdfs/cv_gchevrot.pdf
+.. _[PDF]: https://gchevrot.github.io/home/pdfs/cv_gchevrot.pdf
 .. _`MEMPHYS - Center for Biomembrane Physics`: http://www.memphys.dk/
 .. _`CNRS / SOLEIL synchrotron.`: http://dirac.cnrs-orleans.fr/plone/
 .. _`CEA-DAM Ile de France.`: http://www.cea.fr/le-cea/les-centres-cea/dam-ile-de-france

@@ -79,39 +79,39 @@ See my profile on:
 
 
 
-.. |researchGate| image:: http://gchevrot.github.io/home/static/images/researchGate.png
+.. |researchGate| image:: http://gchevrot.github.io/home/images/researchGate.png
                   :alt: Research Gate
                   :height: 19px
                   :align: bottom
                   :target: http://www.researchgate.net/profile/Guillaume_Chevrot/
-.. |orcid| image:: http://gchevrot.github.io/home/static/images/orcid.png
+.. |orcid| image:: http://gchevrot.github.io/home/images/orcid.png
            :alt: ORCID
            :height: 20px
            :align: bottom
            :target: http://orcid.org/0000-0001-7912-2235
-.. |researcherID| image:: http://gchevrot.github.io/home/static/images/researcherID.png
+.. |researcherID| image:: http://gchevrot.github.io/home/images/researcherID.png
                   :alt: researcherID
                   :height: 19px
                   :align: bottom
                   :target: http://www.researcherid.com/rid/A-2418-2012
-.. |google scholar| image:: http://gchevrot.github.io/home/static/images/google_scholar.png
+.. |google scholar| image:: http://gchevrot.github.io/home/images/google_scholar.png
                     :alt: Google Scholar
                     :height: 21px
                     :align: bottom
                     :target: http://scholar.google.fr/citations?user=m5KlXI8AAAAJ&hl=en
 .. _water: http://figshare.com/articles/Model_free_simulation_approach_to_molecular_diffusion_tensors_Water/808595
 .. _lysozyme: http://figshare.com/articles/Model_free_simulation_approach_to_molecular_diffusion_tensors_Lysozyme/808594
-__ http://gchevrot.github.io/home/static/pdfs/JChemPhys_139_154110_2013.pdf
+__ http://gchevrot.github.io/home/pdfs/JChemPhys_139_154110_2013.pdf
 __ http://dx.doi.org/10.1063/1.4823996
-__ http://gchevrot.github.io/home/static/pdfs/JChemPhys_137_225101_2012.pdf
-__ http://gchevrot.github.io/home/static/pdfs/JChemPhys_136_084506_2012.pdf
-__ http://gchevrot.github.io/home/static/pdfs/JChemPhys_135_084110_2011.pdf
-__ http://gchevrot.github.io/home/static/pdfs/PhysRevB_80_155420_2009.pdf
-__ http://gchevrot.github.io/home/static/pdfs/Carbon_47_3392_2009.pdf
-__ http://gchevrot.github.io/home/static/pdfs/PCCP_9_5928_2007.pdf
-__ http://gchevrot.github.io/home/static/pdfs/PCCP_9_1991_2007.pdf
-__ http://gchevrot.github.io/home/static/pdfs/PCCP_8_4166_2006.pdf
-__ http://gchevrot.github.io/home/static/pdfs/JPhysChemB_110_9488_2006.pdf
+__ http://gchevrot.github.io/home/pdfs/JChemPhys_137_225101_2012.pdf
+__ http://gchevrot.github.io/home/pdfs/JChemPhys_136_084506_2012.pdf
+__ http://gchevrot.github.io/home/pdfs/JChemPhys_135_084110_2011.pdf
+__ http://gchevrot.github.io/home/pdfs/PhysRevB_80_155420_2009.pdf
+__ http://gchevrot.github.io/home/pdfs/Carbon_47_3392_2009.pdf
+__ http://gchevrot.github.io/home/pdfs/PCCP_9_5928_2007.pdf
+__ http://gchevrot.github.io/home/pdfs/PCCP_9_1991_2007.pdf
+__ http://gchevrot.github.io/home/pdfs/PCCP_8_4166_2006.pdf
+__ http://gchevrot.github.io/home/pdfs/JPhysChemB_110_9488_2006.pdf
 .. _Google Scholar profile: http://scholar.google.fr/citations?user=m5KlXI8AAAAJ&hl=en
 .. _ORCID profile: http://orcid.org/0000-0001-7912-2235
 

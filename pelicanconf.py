@@ -18,7 +18,7 @@ PAGINATED_DIRECT_TEMPLATES = (('blog',))
 #TEMPLATE_PAGES = {'blog.html': 'index.html',}
 
 PATH='content'
-ARTICLE_DIR = 'posts'
+ARTICLE_PATH = 'posts'
 ARTICLE_URL = 'posts/{date:%Y}/{date:%m}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = 'posts/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 
