@@ -29,6 +29,13 @@ DEFAULT_DATE_FORMAT = '%a %d %B %Y'
 
 OUTPUT_PATH = 'home'
 
+# Plugin to blog with ipython
+MARKUP = ('md', 'ipynb')
+
+PLUGIN_PATH = './plugins'
+PLUGINS = ['ipynb']
+
+
 # =======
 # Theming
 # =======
