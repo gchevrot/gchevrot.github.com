@@ -16,8 +16,8 @@ Professional Experience
 
 
 +-----------------+-------------------------------------------------------------+--------------------------------------------------------------------------------------------+
-|**2014**         | Postdoctoral Research Associate (computational biophysics). | - Molecular dynamics simulations of the Na+/K+-ATPase membrane protein.                    |
-|   **Present**   |                                                             | - Adaptation of a new molecular dynamics method for the simulation of proteins.            |
+|**2014**         | Postdoctoral Research Associate (computational biophysics). | - Impact of phosphorylation on the motor protein Kinesin-5.                                |
+|   **Present**   |                                                             | - Molecular dynamics simulations of 3rd generation ionic liquids.                          |
 |                 | `MEMPHYS - Center for Biomembrane Physics`_                 | - ...                                                                                      | 
 |                 |                                                             |                                                                                            |
 |                 | Univerty of Southern Denmark, Odense, Denmark.              |                                                                                            |
