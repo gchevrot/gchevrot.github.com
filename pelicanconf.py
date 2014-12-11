@@ -32,7 +32,7 @@ OUTPUT_PATH = 'home'
 # Plugin to blog with ipython
 MARKUP = ('md', 'ipynb')
 
-PLUGIN_PATH = './plugins'
+PLUGIN_PATHS = ['./plugins']
 PLUGINS = ['ipynb']
 
 
