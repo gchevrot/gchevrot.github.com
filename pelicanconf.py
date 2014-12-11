@@ -13,8 +13,8 @@ SITEURL = 'https://gchevrot.github.io/home'
 
 # Posts
 # Custom blog page
-DIRECT_TEMPLATES = (('index', 'blog', 'tags', 'categories', 'archives'))
-PAGINATED_DIRECT_TEMPLATES = (('blog',))
+DIRECT_TEMPLATES = (('index', 'blog', 'tweets', 'tags', 'categories', 'archives'))
+PAGINATED_DIRECT_TEMPLATES = (('blog', 'tweets'))
 #TEMPLATE_PAGES = {'blog.html': 'index.html',}
 
 PATH='content'
