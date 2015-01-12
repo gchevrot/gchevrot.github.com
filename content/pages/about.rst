@@ -23,12 +23,12 @@ About me
     
     My research interests are now in biomolecular simulations but I previously
     sharpened my skills (programming, statistical mechanics, numerical
-    simulations) on different subjects. I obtained my PhD at the university of
-    Strasbourg where I studied the liquid-liquid interface as part of the
+    simulations) on different subjects. I obtained my PhD at the `University of
+    Strasbourg`_ where I studied the liquid-liquid interface as part of the
     extraction of ions from one phase to another. Then I studied the
     structural and thermodynamic behavior of carbon nanoparticles under high
     pressure and temperature. I also worked on the dynamics of proteins
-    (internal motions, diffusion tensors) and impact of anisotrpic motions on
+    (internal motions, diffusion tensors) and impact of anisotropic motions on
     incoherent neutron scattering intensities.
 
     When not working in the lab, I enjoy learning new things, reading books,
@@ -40,4 +40,5 @@ About me
 .. _MEMPHYS: http://www.memphys.dk/ 
 .. _University of Southern Denmark: http://www.sdu.dk/en/
 .. _group of H. Khandelia: http://www.memphys.dk/Himanshu-Khandelia
+.. _University of Strasbourg: http://www.unistra.fr/index.php?id=english
 
