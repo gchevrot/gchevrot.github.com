@@ -87,6 +87,6 @@ Adress:
               :target: http://figshare.com/authors/Guillaume_Chevrot/469535
 .. _https://gchevrot.github.io/home/: https://gchevrot.github.io/home/
 .. |sdu| image:: https://gchevrot.github.io/home/images/sdu.jpg
-            :alt: SOLEIL synchrotron
-            :target: http://www.synchrotron-soleil.fr/portal/page/portal/Accueil
+            :alt: University of Southern Denmark
+            :target: http://www.sdu.dk/en/
 
