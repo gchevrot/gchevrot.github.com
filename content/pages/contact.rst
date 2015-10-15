@@ -41,7 +41,7 @@ Adress:
 
     Guillaume Chevrot
 
-    MISC - Maison Interdisciplinaire des Systèmes Complexes
+    `MISC - Maison Interdisciplinaire des Systèmes Complexes`_
 
     Department of Physics and Chemistry
     
@@ -89,4 +89,5 @@ Adress:
 .. |uo| image:: https://gchevrot.github.io/home/images/campus_uo.jpg
             :alt: University of Orléans
             :target: http://www.univ-orleans.fr/en/international
+.. _MISC - Maison Interdisciplinaire des Systèmes Complexes: http://www.univ-orleans.fr/en/misc-orleans-tours/maison-interdisciplinaire-des-syst%C3%A8mes-complexes-0
 
