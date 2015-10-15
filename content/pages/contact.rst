@@ -35,19 +35,19 @@ Contact
 `https://gchevrot.github.io/home/`_
 
 
-|sdu| 
+|uo| 
 
 Adress:
 
     Guillaume Chevrot
 
-    MEMPHYS - Center for Biomembrane Physics
+    MISC - Maison Interdisciplinaire des Systèmes Complexes
 
-    Department of Physics, Chemistry and Pharmacy
+    Department of Physics and Chemistry
     
-    University of Southern Denmark
+    University of Orléans
     
-    Campusvej 55, 5230 Odense M, Denmark
+    1 rue de chartres, 45067 Orléans, Denmark
    
 
 .. |gmail| image:: https://gchevrot.github.io/home/images/gmail_logo.png
@@ -86,7 +86,7 @@ Adress:
               :align: bottom
               :target: http://figshare.com/authors/Guillaume_Chevrot/469535
 .. _https://gchevrot.github.io/home/: https://gchevrot.github.io/home/
-.. |sdu| image:: https://gchevrot.github.io/home/images/sdu.jpg
-            :alt: University of Southern Denmark
-            :target: http://www.sdu.dk/en/
+.. |uo| image:: https://gchevrot.github.io/home/images/campus_uo.jpg
+            :alt: University of Orléans
+            :target: http://www.univ-orleans.fr/en/international
 
