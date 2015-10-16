@@ -16,7 +16,7 @@ About me
 .. container:: rightside
 
     Currently I am working at the Complex Systems Institute (MISC_) at the
-    University of Orléans in France. I am working on 3 different
+    `University of Orléans`_ in France. I am working on 3 different
     interdisciplinary projects. The first project tries to address the problem
     of reproducibility in computational science. The second project is related
     to text mining and the thrid projects deals with statistical analysis of
@@ -44,6 +44,7 @@ About me
 
 .. |photo| image:: https://gchevrot.github.io/home/images/photo.jpg
 .. _MISC: http://www.univ-orleans.fr/en/misc-orleans-tours/maison-interdisciplinaire-des-syst%C3%A8mes-complexes-0
+.. _University of Orléans: http://www.univ-orleans.fr/en/international
 .. _MEMPHYS: http://www.memphys.dk/ 
 .. _University of Southern Denmark: http://www.sdu.dk/en/
 .. _group of H. Khandelia: http://www.memphys.dk/Himanshu-Khandelia
