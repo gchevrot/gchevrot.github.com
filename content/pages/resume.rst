@@ -98,7 +98,7 @@ Skills
 
     - Extensive experience in molecular simulations.
 
-    - Programming experience in Python, C, Shell scripting, Mathematica, `Django`_, HTML, CSS, `Git`_.
+    - Programming experience in Python, C, Shell scripting, Mathematica, `Django`_, HTML, CSS, `Git`_, `Drupal`_.
 
     - Experience working with large data sets (HDF5, NetCDF).
     
@@ -119,3 +119,4 @@ Skills
 .. _`University of Sheffield.`: http://www.shef.ac.uk/
 .. _`Django`: http://dirac.cnrs-orleans.fr/sputnik/home/
 .. _`Git`: https://github.com/gchevrot
+.. _`Drupal`: http://www.univ-orleans.fr/en/misc-orleans-tours/maison-interdisciplinaire-des-syst%C3%A8mes-complexes-0
