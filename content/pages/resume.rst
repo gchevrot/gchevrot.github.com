@@ -16,11 +16,19 @@ Professional Experience
 
 
 +-----------------+-------------------------------------------------------------+--------------------------------------------------------------------------------------------+
-|**2014**         | Postdoctoral Research Associate (computational biophysics). | - Impact of phosphorylation on the motor protein Kinesin-5.                                |
-|   **Present**   |                                                             | - Molecular dynamics simulations of 3rd generation ionic liquids.                          |
-|                 | `MEMPHYS - Center for Biomembrane Physics`_                 | - ...                                                                                      | 
+|**2015**         | Postdoctoral Research Associate (computational science).    | - Combining `ActivePapers`_ and `Exec&Share`_.                                             |
+|   **Present**   |                                                             | - Analysis of neural data.                                                                 |
+|                 | `MISC - Complex Systems Institute`_                         | - Text mining.                                                                             | 
 |                 |                                                             |                                                                                            |
-|                 | Univerty of Southern Denmark, Odense, Denmark.              |                                                                                            |
+|                 | Univerty of Orléans, Orléans, France.                       |                                                                                            |
++-----------------+-------------------------------------------------------------+--------------------------------------------------------------------------------------------+
+
++-----------------+-------------------------------------------------------------+--------------------------------------------------------------------------------------------+
+|**2014**         | Postdoctoral Research Associate (computational biophysics). | - Impact of phosphorylation on the motor protein Kinesin-5.                                |
+|   **2015**      |                                                             | - Molecular dynamics simulations of 3rd generation ionic liquids.                          |
+|                 | `MEMPHYS - Center for Biomembrane Physics`_                 | - Lipid droplet formation.                                                                 | 
+|                 |                                                             | - ...                                                                                      |
+|                 | Univerty of Southern Denmark, Odense, Denmark.              | - 1 + 2 publications.                                                                      |
 +-----------------+-------------------------------------------------------------+--------------------------------------------------------------------------------------------+
 
 +-----------------+-------------------------------------------------------------+--------------------------------------------------------------------------------------------+
@@ -99,6 +107,9 @@ Skills
 
 
 .. _[PDF]: https://gchevrot.github.io/home/pdfs/cv_gchevrot.pdf
+.. _`ActivePapers`: http://www.activepapers.org/
+.. _`Exec&Share`: http://www.execandshare.org/CompanionSite/
+.. _`MISC - Complex Systems Institute`: http://www.univ-orleans.fr/en/misc-orleans-tours/maison-interdisciplinaire-des-syst%C3%A8mes-complexes-0
 .. _`MEMPHYS - Center for Biomembrane Physics`: http://www.memphys.dk/
 .. _`CNRS / SOLEIL synchrotron.`: http://dirac.cnrs-orleans.fr/plone/
 .. _`CEA-DAM Ile de France.`: http://www.cea.fr/le-cea/les-centres-cea/dam-ile-de-france
