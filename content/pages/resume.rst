@@ -16,7 +16,7 @@ Professional Experience
 
 
 +-----------------+-------------------------------------------------------------+--------------------------------------------------------------------------------------------+
-|**2015**         | Postdoctoral Research Associate (computational science).    | - Combining `ActivePapers`_ and `Exec&Share`_.                                             |
+|**2015**         | Research Associate (computational science).                 | - Combining `ActivePapers`_ and `Exec&Share`_.                                             |
 |   **Present**   |                                                             | - Analysis of neural data.                                                                 |
 |                 | `MISC - Complex Systems Institute`_                         | - Creation of a database and statistical analysis of a corpus.                             | 
 |                 |                                                             |                                                                                            |
@@ -24,7 +24,7 @@ Professional Experience
 +-----------------+-------------------------------------------------------------+--------------------------------------------------------------------------------------------+
 
 +-----------------+-------------------------------------------------------------+--------------------------------------------------------------------------------------------+
-|**2014**         | Postdoctoral Research Associate (computational biophysics). | - Impact of phosphorylation on the motor protein Kinesin-5.                                |
+|**2014**         | Research Associate (computational biophysics).              | - Impact of phosphorylation on the motor protein Kinesin-5.                                |
 |   **2015**      |                                                             | - Molecular dynamics simulations of 3rd generation ionic liquids.                          |
 |                 | `MEMPHYS - Center for Biomembrane Physics`_                 | - Lipid droplet formation.                                                                 | 
 |                 |                                                             | - ...                                                                                      |
@@ -32,7 +32,7 @@ Professional Experience
 +-----------------+-------------------------------------------------------------+--------------------------------------------------------------------------------------------+
 
 +-----------------+-------------------------------------------------------------+--------------------------------------------------------------------------------------------+
-|**2011**         | Postdoctoral Research Associate (computational biophysics). | - Extraction of internal motions from molecular dynamics simulations.                      |
+|**2011**         | Research Associate (computational biophysics).              | - Extraction of internal motions from molecular dynamics simulations.                      |
 |   **2014**      |                                                             | - Impact of anisotropic atomic motions on incoherent neutron scattering intensities.       |
 |                 | `CNRS / SOLEIL synchrotron.`_                               | - Scripting for simulations analysis.                                                      | 
 |                 |                                                             | - ...                                                                                      |
@@ -40,7 +40,7 @@ Professional Experience
 +-----------------+-------------------------------------------------------------+--------------------------------------------------------------------------------------------+
 
 +-----------------+-------------------------------------------------------------+--------------------------------------------------------------------------------------------+
-|**2008**         | Postdoctoral Research Associate (computational chemistry).  | - Molecular dynamics simulations of carbon nanoparticles under detonation conditions.      |
+|**2008**         | Research Associate (computational chemistry).               | - Molecular dynamics simulations of carbon nanoparticles under detonation conditions.      |
 |   **2010**      |                                                             | - Modeling the kinetics of carbon nanoparticles coalescence.                               |
 |                 | `CEA-DAM Ile de France.`_                                   | - Development of programs to analyze molecular dynamics simulations.                       | 
 |                 |                                                             | - ...                                                                                      |
@@ -96,8 +96,6 @@ Education
 Skills
 ------
     
-    - Computer science.
-
     - Data Analysis.
     
     - Extensive experience in molecular simulations.
@@ -108,6 +106,7 @@ Skills
     
     - HPC experience. 
 
+    - Research report, oral presentation, collaboration, ...
 
 
 .. _[PDF]: https://gchevrot.github.io/home/pdfs/cv_gchevrot.pdf
