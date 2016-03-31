@@ -18,9 +18,9 @@ Professional Experience
 +-----------------+-------------------------------------------------------------+--------------------------------------------------------------------------------------------+
 |**2015**         | Postdoctoral Research Associate (computational science).    | - Combining `ActivePapers`_ and `Exec&Share`_.                                             |
 |   **Present**   |                                                             | - Analysis of neural data.                                                                 |
-|                 | `MISC - Complex Systems Institute`_                         | - Text mining.                                                                             | 
+|                 | `MISC - Complex Systems Institute`_                         | - Creation of a database and statistical analysis of a corpus.                             | 
 |                 |                                                             |                                                                                            |
-|                 | Univerty of Orléans, Orléans, France.                       |                                                                                            |
+|                 | University of Orléans, Orléans, France.                     |                                                                                            |
 +-----------------+-------------------------------------------------------------+--------------------------------------------------------------------------------------------+
 
 +-----------------+-------------------------------------------------------------+--------------------------------------------------------------------------------------------+
@@ -28,7 +28,7 @@ Professional Experience
 |   **2015**      |                                                             | - Molecular dynamics simulations of 3rd generation ionic liquids.                          |
 |                 | `MEMPHYS - Center for Biomembrane Physics`_                 | - Lipid droplet formation.                                                                 | 
 |                 |                                                             | - ...                                                                                      |
-|                 | Univerty of Southern Denmark, Odense, Denmark.              | - 1 + 2 publications.                                                                      |
+|                 | University of Southern Denmark, Odense, Denmark.            | - 1 + 2 publications.                                                                      |
 +-----------------+-------------------------------------------------------------+--------------------------------------------------------------------------------------------+
 
 +-----------------+-------------------------------------------------------------+--------------------------------------------------------------------------------------------+
@@ -95,10 +95,14 @@ Education
 
 Skills
 ------
+    
+    - Computer science.
 
+    - Data Analysis.
+    
     - Extensive experience in molecular simulations.
 
-    - Programming experience in Python, R_, C, Shell scripting, Mathematica, `Django`_, HTML, CSS, `Git`_, `Drupal`_.
+    - Programming experience in Python, R_, C, Shell scripting, Mathematica, `Django`_, HTML, CSS, `Git`_, `Drupal`_, Latex.
 
     - Experience working with large data sets (HDF5, NetCDF).
     
