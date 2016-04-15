@@ -37,7 +37,7 @@ Contact
 
 |uo| 
 
-Adress:
+Professional adress:
 
     Guillaume Chevrot
 
@@ -47,7 +47,7 @@ Adress:
     
     University of Orléans
     
-    1 rue de chartres, 45067 Orléans, Denmark
+    1 rue de chartres, 45067 Orléans, France 
    
 
 .. |gmail| image:: https://gchevrot.github.io/home/images/gmail_logo.png
