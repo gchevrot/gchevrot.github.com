@@ -30,6 +30,10 @@ See my profile on:
 +-------------------+
 
 
+#. G. Chevrot, E.E. Fileti, V.V. Chaban. Protein remains stable at unusually
+   high temperatures when solvated in aqueous mixtures of amino acid based
+   ionic liquids.  
+   J. Mol. Model. 22:258, 2016. `[PDF]`__ - `[DOI]`__
 
 #. G. Chevrot, E.E. Fileti, V.V. Chaban. Enhanced stability of the model
    mini-protein in amino acid ionic liquids and their aqueous solutions.
@@ -104,6 +108,8 @@ See my profile on:
                     :target: http://scholar.google.fr/citations?user=m5KlXI8AAAAJ&hl=en
 .. _water: http://figshare.com/articles/Model_free_simulation_approach_to_molecular_diffusion_tensors_Water/808595
 .. _lysozyme: http://figshare.com/articles/Model_free_simulation_approach_to_molecular_diffusion_tensors_Lysozyme/808594
+__ http://gchevrot.github.io/home/pdfs/JMM_22_258_2016.pdf
+__ https://doi.org/10.1007/s00894-016-3123-9  
 __ http://gchevrot.github.io/home/pdfs/Chevrot_et_al-2015-Journal_of_Computational_Chemistry.pdf
 __ http://onlinelibrary.wiley.com/doi/10.1002/jcc.24042/abstract
 __ http://gchevrot.github.io/home/pdfs/JChemPhys_139_154110_2013.pdf
