@@ -19,8 +19,9 @@ Professional Experience
 |**2015**         | Research Associate (computational science).                 | - Combining `ActivePapers`_ and `Exec&Share`_.                                             |
 |   **Present**   |                                                             | - Analysis of neural data.                                                                 |
 |                 | `MISC - Complex Systems Institute`_                         | - Creation of a database and statistical analysis of a corpus.                             | 
-|                 |                                                             |                                                                                            |
-|                 | University of Orléans, Orléans, France.                     |                                                                                            |
+|                 |                                                             | - Classification of intrinsically disordered proteins.                                     |
+|                 |                                                             | - Deployment of `Mathematica`_ applications.                                               |
+|                 | University of Orléans, Orléans, France.                     | - `Webmaster`_.                                                                            |
 +-----------------+-------------------------------------------------------------+--------------------------------------------------------------------------------------------+
 
 +-----------------+-------------------------------------------------------------+--------------------------------------------------------------------------------------------+
@@ -28,7 +29,7 @@ Professional Experience
 |   **2015**      |                                                             | - Molecular dynamics simulations of 3rd generation ionic liquids.                          |
 |                 | `MEMPHYS - Center for Biomembrane Physics`_                 | - Lipid droplet formation.                                                                 | 
 |                 |                                                             | - ...                                                                                      |
-|                 | University of Southern Denmark, Odense, Denmark.            | - 1 + 2 publications.                                                                      |
+|                 | University of Southern Denmark, Odense, Denmark.            | - 2 publications.                                                                          |
 +-----------------+-------------------------------------------------------------+--------------------------------------------------------------------------------------------+
 
 +-----------------+-------------------------------------------------------------+--------------------------------------------------------------------------------------------+
@@ -100,7 +101,7 @@ Skills
     
     - Extensive experience in molecular simulations.
 
-    - Programming experience in Python, R_, C, Shell scripting, Mathematica, `Django`_, HTML, CSS, `Git`_, `Drupal`_, Latex.
+    - Programming experience in `Python`_, R_, C, Shell scripting, `Mathematica`_, `Django`_, HTML, CSS, `Git`_, `Drupal`_, Latex.
 
     - Experience working with large data sets (HDF5, NetCDF).
     
@@ -112,6 +113,8 @@ Skills
 .. _[PDF]: https://gchevrot.github.io/home/pdfs/cv_gchevrot.pdf
 .. _`ActivePapers`: http://www.activepapers.org/
 .. _`Exec&Share`: http://www.execandshare.org/CompanionSite/
+.. _`Mathematica`: http://163.9.36.22:8080/webMathematica/screwframe.html
+.. _`Webmaster`: http://www.univ-orleans.fr/misc-orleans-tours/
 .. _`MISC - Complex Systems Institute`: http://www.univ-orleans.fr/en/misc-orleans-tours/maison-interdisciplinaire-des-syst%C3%A8mes-complexes-0
 .. _`MEMPHYS - Center for Biomembrane Physics`: http://www.memphys.dk/
 .. _`CNRS / SOLEIL synchrotron.`: http://dirac.cnrs-orleans.fr/plone/
@@ -120,6 +123,7 @@ Skills
 .. _`University of Burgundy.`: http://en.u-bourgogne.fr/
 .. _`Methods in molecular simulation summer school`: http://www.ccp5.ac.uk/events/
 .. _`University of Sheffield.`: http://www.shef.ac.uk/
+.. _`Python`: https://nbviewer.jupyter.org/format/slides/github/gchevrot/Courses/blob/master/Python/Level_1/French/All_parts/Notebook/python_course_level_1.ipynb#/
 .. _`R`: https://github.com/gchevrot/R/blob/master/Analysis_R.ipynb
 .. _`Django`: http://dirac.cnrs-orleans.fr/sputnik/home/
 .. _`Git`: https://github.com/gchevrot
