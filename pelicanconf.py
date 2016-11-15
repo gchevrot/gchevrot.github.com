@@ -13,7 +13,9 @@ SITEURL = 'https://gchevrot.github.io/home'
 
 # Posts
 # Custom blog page
-DIRECT_TEMPLATES = (('index', 'blog', 'tweets', 'tags', 'categories', 'archives'))
+#DIRECT_TEMPLATES = (('index', 'blog', 'tweets', 'tags', 'categories', 'archives'))
+# Removing the blog link:
+DIRECT_TEMPLATES = (('index', 'tweets', 'tags', 'categories', 'archives'))
 PAGINATED_DIRECT_TEMPLATES = (('blog', 'tweets'))
 #TEMPLATE_PAGES = {'blog.html': 'index.html',}
 
