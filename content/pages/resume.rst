@@ -62,7 +62,7 @@ Professional Experience
 +-----------------+-------------------------------------------------------------+--------------------------------------------------------------------------------------------+
 |**2004**         | Ph.D. (computational chemistry)                             | - Molecular dynamics simulations of liquid-liquid interfaces.                              |
 |   **2008**      |                                                             | - Molecular dynamics simulations of ionic liquids.                                         |
-|                 | `University of Strasbourg `_                                | - EUROPART: EUROpean research program for the PARTitioning of long-lived fission products. |
+|                 | `University of Strasbourg`_                                 | - EUROPART: EUROpean research program for the PARTitioning of long-lived fission products. |
 |                 |                                                             | - ...                                                                                      |
 |                 | Strasbourg, France                                          | - 4 publications.                                                                          |
 +-----------------+-------------------------------------------------------------+--------------------------------------------------------------------------------------------+
