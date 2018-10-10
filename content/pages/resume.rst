@@ -14,11 +14,22 @@ Download my Resumé `[PDF]`_
 Professional Experience
 -----------------------
 
++-----------------+-------------------------------------------------------------+------------------------------------------------------------------------------------------------+
+|**2018**         | Entrepreneur.                                               | - Python training courses.                                                                     |
+|   **Present**   |                                                             | - Python development.                                                                          |
+|                 | Numgrade                                                    |                                                                                                |
++-----------------+-------------------------------------------------------------+------------------------------------------------------------------------------------------------+
+
++-----------------+-------------------------------------------------------------+------------------------------------------------------------------------------------------------+
+|**2016**         | Python developper.                                          | - Python training courses (Python introduction, scientific Python, data analysis with Python). |
+|   **2018**      |                                                             | - Python consultant.                                                                           |
+|                 | Freelance                                                   | - Customer-specific development.                                                               |
++-----------------+-------------------------------------------------------------+------------------------------------------------------------------------------------------------+
 
 +-----------------+-------------------------------------------------------------+--------------------------------------------------------------------------------------------+
 |**2015**         | Research Associate (computational science).                 | - Combining `ActivePapers`_ and `Exec&Share`_.                                             |
-|   **Present**   |                                                             | - Analysis of neural data.                                                                 |
-|                 | `MISC - Complex Systems Institute`_                         | - Creation of a database and statistical analysis of a corpus.                             | 
+|   **2018**      |                                                             | - Analysis of neural data.                                                                 |
+|                 | `MISC - Complex Systems Institute`_                         | - Creation of a database and statistical analysis of a corpus.                             |
 |                 |                                                             | - Classification of intrinsically disordered proteins.                                     |
 |                 |                                                             | - Deployment of `Mathematica`_ applications.                                               |
 |                 | University of Orléans, Orléans, France.                     | - `Webmaster`_.                                                                            |
@@ -27,7 +38,7 @@ Professional Experience
 +-----------------+-------------------------------------------------------------+--------------------------------------------------------------------------------------------+
 |**2014**         | Research Associate (computational biophysics).              | - Impact of phosphorylation on the motor protein Kinesin-5.                                |
 |   **2015**      |                                                             | - Molecular dynamics simulations of 3rd generation ionic liquids.                          |
-|                 | `MEMPHYS - Center for Biomembrane Physics`_                 | - Lipid droplet formation.                                                                 | 
+|                 | `MEMPHYS - Center for Biomembrane Physics`_                 | - Lipid droplet formation.                                                                 |
 |                 |                                                             | - ...                                                                                      |
 |                 | University of Southern Denmark, Odense, Denmark.            | - 2 publications.                                                                          |
 +-----------------+-------------------------------------------------------------+--------------------------------------------------------------------------------------------+
@@ -35,7 +46,7 @@ Professional Experience
 +-----------------+-------------------------------------------------------------+--------------------------------------------------------------------------------------------+
 |**2011**         | Research Associate (computational biophysics).              | - Extraction of internal motions from molecular dynamics simulations.                      |
 |   **2014**      |                                                             | - Impact of anisotropic atomic motions on incoherent neutron scattering intensities.       |
-|                 | `CNRS / SOLEIL synchrotron.`_                               | - Scripting for simulations analysis.                                                      | 
+|                 | `CNRS / SOLEIL synchrotron.`_                               | - Scripting for simulations analysis.                                                      |
 |                 |                                                             | - ...                                                                                      |
 |                 | Paris Area, France.                                         | - 3 publications.                                                                          |
 +-----------------+-------------------------------------------------------------+--------------------------------------------------------------------------------------------+
@@ -43,7 +54,7 @@ Professional Experience
 +-----------------+-------------------------------------------------------------+--------------------------------------------------------------------------------------------+
 |**2008**         | Research Associate (computational chemistry).               | - Molecular dynamics simulations of carbon nanoparticles under detonation conditions.      |
 |   **2010**      |                                                             | - Modeling the kinetics of carbon nanoparticles coalescence.                               |
-|                 | `CEA-DAM Ile de France.`_                                   | - Development of programs to analyze molecular dynamics simulations.                       | 
+|                 | `CEA-DAM Ile de France.`_                                   | - Development of programs to analyze molecular dynamics simulations.                       |
 |                 |                                                             | - ...                                                                                      |
 |                 | Paris Area, France.                                         | - 3 publications.                                                                          |
 +-----------------+-------------------------------------------------------------+--------------------------------------------------------------------------------------------+
@@ -96,16 +107,16 @@ Education
 
 Skills
 ------
-    
+
     - Data Analysis.
-    
+
     - Extensive experience in molecular simulations.
 
     - Programming experience in `Python`_, R_, C, Shell scripting, `Mathematica`_, `Django`_, HTML, CSS, `Git`_, `Drupal`_, Latex.
 
     - Experience working with large data sets (HDF5, NetCDF).
-    
-    - HPC experience. 
+
+    - HPC experience.
 
     - Research report, oral presentation, collaboration, ...
 

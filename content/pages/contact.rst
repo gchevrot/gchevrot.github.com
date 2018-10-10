@@ -5,19 +5,19 @@ Contact
 +-------------------+
 |                   |
 |    |gmail|        |
-|                   |    
+|                   |
 +-------------------+
 |                   |
 |   |twitter|       |
-|                   |    
+|                   |
 +-------------------+
 |                   |
 |  |linkedin|       |
-|                   |    
+|                   |
 +-------------------+
 |                   |
 |   |viadeo|        |
-|                   |    
+|                   |
 +-------------------+
 |                   |
 |  |researchGate|   |
@@ -35,20 +35,22 @@ Contact
 `https://gchevrot.github.io/home/`_
 
 
-|uo| 
+|uo|
 
 Professional adress:
 
     Guillaume Chevrot
 
-    `MISC - Maison Interdisciplinaire des Systèmes Complexes`_
+    4 passage de la Râpe
 
-    Department of Physics and Chemistry
-    
-    University of Orléans
-    
-    1 rue de chartres, 45067 Orléans, France 
-   
+    Immeuble Val de Loire
+
+    CS31635
+
+    45006 ORLÉANS CEDEX
+
+    France
+
 
 .. |gmail| image:: https://gchevrot.github.io/home/images/gmail_logo.png
            :alt: email
@@ -89,5 +91,3 @@ Professional adress:
 .. |uo| image:: https://gchevrot.github.io/home/images/campus_uo.jpg
             :alt: University of Orléans
             :target: http://www.univ-orleans.fr/en/international
-.. _MISC - Maison Interdisciplinaire des Systèmes Complexes: http://www.univ-orleans.fr/en/misc-orleans-tours/maison-interdisciplinaire-des-syst%C3%A8mes-complexes-0
-
