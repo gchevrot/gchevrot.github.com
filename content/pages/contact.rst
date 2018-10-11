@@ -20,6 +20,10 @@ Contact
 |                   |
 +-------------------+
 |                   |
+|   |github|        |
+|                   |
++-------------------+
+|                   |
 |  |researchGate|   |
 |                   |
 +-------------------+
@@ -58,7 +62,7 @@ Professional adress:
            :alt: email
            :height: 29px
            :align: bottom
-           :target: mailto:guillaume.chevrot@gmail.com
+           :target: mailto:gchevrot@numgrade.com
 .. |twitter| image:: https://gchevrot.github.io/home/images/twitter.jpg
              :alt: twitter
              :height: 25px
@@ -74,6 +78,11 @@ Professional adress:
             :height: 25px
             :align: bottom
             :target: http://fr.viadeo.com/fr/profile/guillaume.chevrot
+.. |github| image:: https://gchevrot.github.io/home/images/github_logo_min.png
+            :alt: GitHub
+            :height: 25px
+            :align: bottom
+            :target: https://github.com/gchevrot
 .. |researchGate| image:: https://gchevrot.github.io/home/images/researchGate.png
                   :alt: Research Gate
                   :height: 25px
