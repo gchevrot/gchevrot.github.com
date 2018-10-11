@@ -27,7 +27,7 @@ Professional Experience
 +-----------------+-------------------------------------------------------------+------------------------------------------------------------------------------------------------+
 
 +-----------------+-------------------------------------------------------------+------------------------------------------------------------------------------------------------+
-|**2015**         | Research Associate (computational science)                  | - Combining `ActivePapers`_ and `Exec&Share`_.                                                 |
+|**2015**         | Research Associate (computational science)                  | - `Web Nmoldyn`_: interactive notebooks in the cloud.                                          |
 |   **2018**      |                                                             | - Analysis of neural data.                                                                     |
 |                 | `MISC - Complex Systems Institute`_                         | - Creation of a database and statistical analysis of a corpus.                                 |
 |                 |                                                             | - Classification of intrinsically disordered proteins.                                         |
@@ -108,13 +108,15 @@ Education
 Skills
 ------
 
-    - Data Analysis.
-
-    - Extensive experience in molecular simulations.
-
-    - Programming experience in `Python`_, R_, C, Shell scripting, `Mathematica`_, `Django`_, HTML, CSS, `Git`_, `Drupal`_, Latex.
+    - Programming experience in `Python`_, R_, C, Shell scripting, `Mathematica`_, Django, HTML, CSS, `Git`_, `Drupal`_, Latex.
 
     - Experience working with large data sets (HDF5, NetCDF).
+
+    - Data Analysis.
+
+    - Python training
+
+    - Extensive experience in molecular simulations.
 
     - HPC experience.
 
@@ -122,6 +124,7 @@ Skills
 
 
 .. _[PDF]: https://gchevrot.github.io/home/pdfs/cv_gchevrot.pdf
+.. _`Web Nmoldyn`: https://github.com/gchevrot/WebNmoldyn
 .. _`ActivePapers`: http://www.activepapers.org/
 .. _`Exec&Share`: http://www.execandshare.org/CompanionSite/
 .. _`Mathematica`: http://163.9.36.22:8080/webMathematica/screwframe.html
@@ -134,7 +137,7 @@ Skills
 .. _`University of Burgundy`: http://en.u-bourgogne.fr/
 .. _`Methods in molecular simulation summer school`: http://www.ccp5.ac.uk/events/
 .. _`University of Sheffield`: http://www.shef.ac.uk/
-.. _`Python`: https://nbviewer.jupyter.org/format/slides/github/gchevrot/Courses/blob/master/Python/Level_1/French/All_parts/Notebook/python_course_level_1.ipynb#/
+.. _`Python`: https://github.com/gchevrot/WebNmoldyn
 .. _`R`: https://github.com/gchevrot/R/blob/master/Analysis_R.ipynb
 .. _`Django`: http://dirac.cnrs-orleans.fr/sputnik/home/
 .. _`Git`: https://github.com/gchevrot
