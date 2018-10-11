@@ -27,7 +27,7 @@ Professional Experience
 +-----------------+-------------------------------------------------------------+------------------------------------------------------------------------------------------------+
 
 +-----------------+-------------------------------------------------------------+------------------------------------------------------------------------------------------------+
-|**2015**         | Research Associate (computational science)                  | - `Web Nmoldyn`_: interactive notebooks in the cloud.                                          |
+|**2015**         | Research Associate (computational science)                  | - `WebNmoldyn`_: interactive notebooks in the cloud.                                          |
 |   **2018**      |                                                             | - Analysis of neural data.                                                                     |
 |                 | `MISC - Complex Systems Institute`_                         | - Creation of a database and statistical analysis of a corpus.                                 |
 |                 |                                                             | - Classification of intrinsically disordered proteins.                                         |
@@ -124,7 +124,7 @@ Skills
 
 
 .. _[PDF]: https://gchevrot.github.io/home/pdfs/cv_gchevrot.pdf
-.. _`Web Nmoldyn`: https://github.com/gchevrot/WebNmoldyn
+.. _`WebNmoldyn`: https://github.com/gchevrot/WebNmoldyn
 .. _`ActivePapers`: http://www.activepapers.org/
 .. _`Exec&Share`: http://www.execandshare.org/CompanionSite/
 .. _`Mathematica`: http://163.9.36.22:8080/webMathematica/screwframe.html
