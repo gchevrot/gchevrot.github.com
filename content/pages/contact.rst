@@ -36,12 +36,10 @@ Contact
 |                   |
 +-------------------+
 
-`https://gchevrot.github.io/home/`_
-
-
-|numgrade|
 
 Professional adress:
+
+    |numgrade|
 
     Numgrade
 
@@ -80,7 +78,7 @@ Professional adress:
             :target: http://fr.viadeo.com/fr/profile/guillaume.chevrot
 .. |github| image:: https://gchevrot.github.io/home/images/github_logo_min.png
             :alt: GitHub
-            :height: 25px
+            :height: 28px
             :align: bottom
             :target: https://github.com/gchevrot
 .. |researchGate| image:: https://gchevrot.github.io/home/images/researchGate.png
