@@ -114,7 +114,7 @@ Skills
 
     - Data Analysis.
 
-    - Python training
+    - Python training.
 
     - Extensive experience in molecular simulations.
 
