@@ -27,7 +27,7 @@ Professional Experience
 +-----------------+-------------------------------------------------------------+------------------------------------------------------------------------------------------------+
 
 +-----------------+-------------------------------------------------------------+------------------------------------------------------------------------------------------------+
-|**2015**         | Research Associate (computational science)                  | - `WebNmoldyn`_: interactive notebooks in the cloud.                                          |
+|**2015**         | Research Associate (computational science)                  | - `WebNmoldyn`_: interactive notebooks in the cloud.                                           |
 |   **2018**      |                                                             | - Analysis of neural data.                                                                     |
 |                 | `MISC - Complex Systems Institute`_                         | - Creation of a database and statistical analysis of a corpus.                                 |
 |                 |                                                             | - Classification of intrinsically disordered proteins.                                         |
