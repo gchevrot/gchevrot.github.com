@@ -93,6 +93,6 @@ Professional adress:
 .. |uo| image:: https://gchevrot.github.io/home/images/campus_uo.jpg
             :alt: University of Orléans
             :target: http://www.univ-orleans.fr/en/international
-.. |numgrade| image:: https://gchevrot.github.io/home/images/rouge-baseline-moyen.jpg
+.. |numgrade| image:: https://gchevrot.github.io/home/images/rouge-baseline-bas.jpg
               :alt: numgrade
               :target: http://numgrade.com/
